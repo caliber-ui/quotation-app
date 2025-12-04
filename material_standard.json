@@ -1,0 +1,1426 @@
+{
+  "Bolts": [
+    {
+      "Bolt Type": "Anchor Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "F1554 Grade 36",
+        "F1554 Grade 55",
+        "F1554 Grade 105",
+        "A307 Grade A"
+      ]
+    },
+    {
+      "Bolt Type": "Anchor Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 4.6 (General)",
+        "Property Class 8.8 (High Strength)"
+      ]
+    },
+    {
+      "Bolt Type": "Anchor Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 2062 (Mild Steel)",
+        "IS 1367 (Property Class 4.6, 8.8)"
+      ]
+    },
+    {
+      "Bolt Type": "Blind Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A307 (Carbon Steel)",
+        "A193 B7 (High Strength/Temp)"
+      ]
+    },
+    {
+      "Bolt Type": "Blind Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 8.8",
+        "A4 (Stainless equivalent)"
+      ]
+    },
+    {
+      "Bolt Type": "Blind Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 1367 (Property Class 8.8)"
+      ]
+    },
+    {
+      "Bolt Type": "Mushroom Head Square Carriage Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A307 Grade A",
+        "F593 (Stainless equivalent)"
+      ]
+    },
+    {
+      "Bolt Type": "Mushroom Head Square Carriage Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 4.6",
+        "Property Class 8.8",
+        "A2-70 (Stainless)"
+      ]
+    },
+    {
+      "Bolt Type": "Mushroom Head Square Carriage Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 2609 (Common Grades)",
+        "IS 1367 (Property Class 4.6)"
+      ]
+    },
+    {
+      "Bolt Type": "Flat Countersunk Square Carriage Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A307 Grade A",
+        "F593 (Stainless equivalent)"
+      ]
+    },
+    {
+      "Bolt Type": "Flat Countersunk Square Carriage Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 4.6",
+        "Property Class 8.8",
+        "A2-70 (Stainless)"
+      ]
+    },
+    {
+      "Bolt Type": "Flat Countersunk Square Carriage Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 1367 (Property Class 4.6)"
+      ]
+    },
+    {
+      "Bolt Type": "Half Coach Carriage Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A307 Grade A"
+      ]
+    },
+    {
+      "Bolt Type": "Half Coach Carriage Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 4.6",
+        "A2 (Stainless equivalent)"
+      ]
+    },
+    {
+      "Bolt Type": "Half Coach Carriage Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 1367 (Property Class 4.6)"
+      ]
+    },
+    {
+      "Bolt Type": "Elevator Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A307 Grade A",
+        "A449 (Medium Strength)"
+      ]
+    },
+    {
+      "Bolt Type": "Elevator Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 4.6",
+        "Property Class 8.8"
+      ]
+    },
+    {
+      "Bolt Type": "Elevator Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 1367 (Common Grades)"
+      ]
+    },
+    {
+      "Bolt Type": "Eye Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A489 (Forged Steel)",
+        "F593 (Stainless equivalent)"
+      ]
+    },
+    {
+      "Bolt Type": "Eye Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "DIN 580 (Lifting Eye Bolt)",
+        "A2-70 (Stainless)"
+      ]
+    },
+    {
+      "Bolt Type": "Eye Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 4190 (Lifting Eye Bolt, Forged Steel)"
+      ]
+    },
+    {
+      "Bolt Type": "Forged Eye Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A489 (Forged Carbon Steel)"
+      ]
+    },
+    {
+      "Bolt Type": "Forged Eye Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "DIN 580 (Lifting Eye Bolt)"
+      ]
+    },
+    {
+      "Bolt Type": "Forged Eye Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 4190"
+      ]
+    },
+    {
+      "Bolt Type": "Flange Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A307 Grade A",
+        "A449 (Medium Strength)"
+      ]
+    },
+    {
+      "Bolt Type": "Flange Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 8.8 (ISO 4162)",
+        "Property Class 10.9"
+      ]
+    },
+    {
+      "Bolt Type": "Flange Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 1367 (Property Class 8.8, 10.9)"
+      ]
+    },
+    {
+      "Bolt Type": "Hex Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A307 Grade B",
+        "A325 (Structural, replaced by F3125 Gr. A325)",
+        "A490 (Structural, replaced by F3125 Gr. A490)",
+        "A193 Grade B7"
+      ]
+    },
+    {
+      "Bolt Type": "Hex Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 4.8",
+        "Property Class 8.8",
+        "Property Class 10.9",
+        "Property Class 12.9"
+      ]
+    },
+    {
+      "Bolt Type": "Hex Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 1367 (Property Class 4.6, 8.8, 10.9)",
+        "IS 3757 (Structural, High Strength)"
+      ]
+    },
+    {
+      "Bolt Type": "Heavy Hex Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A325 Type 1",
+        "A490 Type 1",
+        "A193 Grade B7",
+        "A193 Grade B16"
+      ]
+    },
+    {
+      "Bolt Type": "Heavy Hex Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 8.8 (Dimensional equivalent to ISO 4014/4017 but heavier)"
+      ]
+    },
+    {
+      "Bolt Type": "Heavy Hex Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 3757 (Structural, High Strength, Heavy Series)"
+      ]
+    },
+    {
+      "Bolt Type": "Half Thread Hex Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A325 Type 1",
+        "A193 Grade B7"
+      ]
+    },
+    {
+      "Bolt Type": "Half Thread Hex Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 8.8 (ISO 4014)",
+        "Property Class 10.9",
+        "A4-70 (Stainless)"
+      ]
+    },
+    {
+      "Bolt Type": "Half Thread Hex Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 1364 (Property Class 8.8, 10.9)"
+      ]
+    },
+    {
+      "Bolt Type": "Hanger Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A307 Grade A",
+        "F593 (Stainless equivalent)"
+      ]
+    },
+    {
+      "Bolt Type": "Hanger Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 4.6",
+        "A2 (Stainless equivalent)"
+      ]
+    },
+    {
+      "Bolt Type": "Hanger Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 1367 (Common Grades)"
+      ]
+    },
+    {
+      "Bolt Type": "J-Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "F1554 Grade 36",
+        "A307 Grade C"
+      ]
+    },
+    {
+      "Bolt Type": "J-Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 4.6 (General use)"
+      ]
+    },
+    {
+      "Bolt Type": "J-Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 2062 (Mild Steel)"
+      ]
+    },
+    {
+      "Bolt Type": "Lag Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "ASTM A307 (Common)",
+        "F593 (Stainless equivalent)"
+      ]
+    },
+    {
+      "Bolt Type": "Lag Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "DIN 571 (Dimensional)",
+        "A2 (Stainless equivalent)"
+      ]
+    },
+    {
+      "Bolt Type": "Lag Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 2335 (Dimensional)"
+      ]
+    },
+    {
+      "Bolt Type": "Plow Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "ASTM A421 (High Carbon Steel)",
+        "SAE Grade 8 (Common)"
+      ]
+    },
+    {
+      "Bolt Type": "Plow Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 10.9"
+      ]
+    },
+    {
+      "Bolt Type": "Plow Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 1367 (Property Class 10.9)"
+      ]
+    },
+    {
+      "Bolt Type": "Rock Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "F432 (Yield Strength grades)"
+      ]
+    },
+    {
+      "Bolt Type": "Rock Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 8.8",
+        "Property Class 10.9"
+      ]
+    },
+    {
+      "Bolt Type": "Rock Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 1367 (High Strength grades)"
+      ]
+    },
+    {
+      "Bolt Type": "Shoulder Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "F835 (Alloy Steel)",
+        "F879 (Stainless equivalent)"
+      ]
+    },
+    {
+      "Bolt Type": "Shoulder Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 12.9 (Alloy Steel)",
+        "A4-80 (Stainless)"
+      ]
+    },
+    {
+      "Bolt Type": "Shoulder Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 1367 (Property Class 12.9)"
+      ]
+    },
+    {
+      "Bolt Type": "Socket Head Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A574 (Alloy Steel)",
+        "F835 (Alloy Steel Socket Head)",
+        "F879 (Stainless equivalent)"
+      ]
+    },
+    {
+      "Bolt Type": "Socket Head Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 10.9",
+        "Property Class 12.9 (ISO 4762)",
+        "A4-80 (Stainless)"
+      ]
+    },
+    {
+      "Bolt Type": "Socket Head Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 2232 (Property Class 10.9, 12.9)"
+      ]
+    },
+    {
+      "Bolt Type": "Square Head Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A307 Grade A",
+        "ASME B18.2.1"
+      ]
+    },
+    {
+      "Bolt Type": "Square Head Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 4.6",
+        "Property Class 8.8"
+      ]
+    },
+    {
+      "Bolt Type": "Square Head Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 2585 (Common Grades)"
+      ]
+    },
+    {
+      "Bolt Type": "T-Head Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A307 Grade A",
+        "A449 (Medium Strength)"
+      ]
+    },
+    {
+      "Bolt Type": "T-Head Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 8.8 (DIN 186/188 equivalents)"
+      ]
+    },
+    {
+      "Bolt Type": "T-Head Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 1367 (Property Class 8.8)"
+      ]
+    },
+    {
+      "Bolt Type": "U-Bolt",
+      "Standard": "ASTM",
+      "Grades": [
+        "A307 Grade A/B",
+        "A193 Grade B7 (High Strength/Temp)"
+      ]
+    },
+    {
+      "Bolt Type": "U-Bolt",
+      "Standard": "ISO",
+      "Grades": [
+        "Property Class 4.6",
+        "Property Class 8.8",
+        "A2-70 (Stainless)"
+      ]
+    },
+    {
+      "Bolt Type": "U-Bolt",
+      "Standard": "IS",
+      "Grades": [
+        "IS 1367 (Common Grades)"
+      ]
+    }
+  ],
+  "Nuts": [
+      {
+        "Nut Type": "Hex Nut",
+        "Standard": "ASTM",
+        "Grades": ["A563 Grade A", "A563 Grade B", "A563 Grade C", "A563 Grade DH", "A194 Grade 2H", "A194 Grade 8", "A194 Grade 8M"]
+      },
+      {
+        "Nut Type": "Hex Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 5", "Property Class 8", "Property Class 10", "Property Class 12", "A2-70 (Stainless)", "A4-80 (Stainless)"]
+      },
+      {
+        "Nut Type": "Hex Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 5, 8, 10)", "IS 6623 (Structural, High Strength)", "A2, A4 (Stainless equivalent)"]
+      },
+      {
+        "Nut Type": "Heavy Hex Nut",
+        "Standard": "ASTM",
+        "Grades": ["A194 Grade 2H", "A194 Grade 4", "A194 Grade 7", "A563 Grade DH", "F594 (Stainless equivalent)"]
+      },
+      {
+        "Nut Type": "Heavy Hex Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 8", "Property Class 10", "Property Class 12 (Dimensions are non-standardized/ASME-based)"]
+      },
+      {
+        "Nut Type": "Heavy Hex Nut",
+        "Standard": "IS",
+        "Grades": ["IS 6623 (High Tensile Structural)", "IS 1367 (Higher Grades)"]
+      },
+      {
+        "Nut Type": "Square Nut",
+        "Standard": "ASTM",
+        "Grades": ["A563 Grade A", "ASME B18.2.2 (Dimensional)"]
+      },
+      {
+        "Nut Type": "Square Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 5", "Property Class 8"]
+      },
+      {
+        "Nut Type": "Square Nut",
+        "Standard": "IS",
+        "Grades": ["IS 2585 (Dimensional)", "IS 1367 (Property Class 5)"]
+      },
+      {
+        "Nut Type": "Hex Jam Nut",
+        "Standard": "ASTM",
+        "Grades": ["A563 Grade A", "A563 Grade C", "A194 Grade 8"]
+      },
+      {
+        "Nut Type": "Hex Jam Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 04 (Low Height)", "Property Class 5 (Low Height)", "A2-70 (Stainless)"]
+      },
+      {
+        "Nut Type": "Hex Jam Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Low Height Nut Grades)"]
+      },
+      {
+        "Nut Type": "Nylon-Insert Lock Nut",
+        "Standard": "ASTM",
+        "Grades": ["A563 Grade A", "A563 Grade B", "F594 (Stainless equivalent)"]
+      },
+      {
+        "Nut Type": "Nylon-Insert Lock Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 6 (ISO 7040)", "Property Class 8", "A2-70 (Stainless, ISO 10512)"]
+      },
+      {
+        "Nut Type": "Nylon-Insert Lock Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 6, 8)"]
+      },
+      {
+        "Nut Type": "Insert Nut",
+        "Standard": "ASTM",
+        "Grades": ["A307 (Carbon Steel)", "F594 (Stainless equivalent)"]
+      },
+      {
+        "Nut Type": "Insert Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 5", "A2 (Stainless equivalent)"]
+      },
+      {
+        "Nut Type": "Insert Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (General Purpose Grades)"]
+      },
+      {
+        "Nut Type": "Wing Nut",
+        "Standard": "ASTM",
+        "Grades": ["ASTM B85 (Zinc Alloy)", "F594 (Stainless equivalent)"]
+      },
+      {
+        "Nut Type": "Wing Nut",
+        "Standard": "ISO",
+        "Grades": ["DIN 315 (Dimensional)", "A2 (Stainless equivalent)"]
+      },
+      {
+        "Nut Type": "Wing Nut",
+        "Standard": "IS",
+        "Grades": ["IS 6524 (Dimensional)"]
+      },
+      {
+        "Nut Type": "Heavy Wing Nut",
+        "Standard": "ASTM",
+        "Grades": ["ASTM B85 (Zinc Alloy)", "F594 (Stainless equivalent)"]
+      },
+      {
+        "Nut Type": "Heavy Wing Nut",
+        "Standard": "ISO",
+        "Grades": ["DIN 315 (Dimensional, Cast)", "A2 (Stainless equivalent)"]
+      },
+      {
+        "Nut Type": "Heavy Wing Nut",
+        "Standard": "IS",
+        "Grades": ["IS 6524 (Dimensional)"]
+      },
+      {
+        "Nut Type": "Cap Nut",
+        "Standard": "ASTM",
+        "Grades": ["A563 Grade A", "F594 (Stainless equivalent)"]
+      },
+      {
+        "Nut Type": "Cap Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 5 (DIN 1587)", "A4-80 (Stainless)"]
+      },
+      {
+        "Nut Type": "Cap Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (General Grades)", "IS 7506 (Dimensional)"]
+      },
+      {
+        "Nut Type": "Flange Nut",
+        "Standard": "ASTM",
+        "Grades": ["A563 Grade A", "A563 Grade B", "A563 Grade DH"]
+      },
+      {
+        "Nut Type": "Flange Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 8 (ISO 4161)", "Property Class 10", "A2-70 (Stainless)"]
+      },
+      {
+        "Nut Type": "Flange Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 8, 10)"]
+      },
+      {
+        "Nut Type": "Serrated Flange Nut",
+        "Standard": "ASTM",
+        "Grades": ["A563 Grade C", "A563 Grade DH", "A194 Grade 2H"]
+      },
+      {
+        "Nut Type": "Serrated Flange Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 8 (ISO 4161, with Serrations)", "Property Class 10", "A4-80 (Stainless)"]
+      },
+      {
+        "Nut Type": "Serrated Flange Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 8, 10)"]
+      },
+      {
+        "Nut Type": "T-Nut",
+        "Standard": "ASTM",
+        "Grades": ["A307 (Carbon Steel)"]
+      },
+      {
+        "Nut Type": "T-Nut",
+        "Standard": "ISO",
+        "Grades": ["DIN 508 (T-Slot Dimensional)", "Property Class 5"]
+      },
+      {
+        "Nut Type": "T-Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (General Grades)"]
+      },
+      {
+        "Nut Type": "T-Slot Nut",
+        "Standard": "ASTM",
+        "Grades": ["A307 (Carbon Steel)"]
+      },
+      {
+        "Nut Type": "T-Slot Nut",
+        "Standard": "ISO",
+        "Grades": ["DIN 508 (Dimensional)", "Property Class 5"]
+      },
+      {
+        "Nut Type": "T-Slot Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (General Grades)"]
+      },
+      {
+        "Nut Type": "Castle Nut",
+        "Standard": "ASTM",
+        "Grades": ["A563 Grade B", "A194 Grade 2H"]
+      },
+      {
+        "Nut Type": "Castle Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 8 (DIN 935)", "A4-70 (Stainless)"]
+      },
+      {
+        "Nut Type": "Castle Nut",
+        "Standard": "IS",
+        "Grades": ["IS 2232 (Dimensional)", "IS 1367 (Property Class 8)"]
+      },
+      {
+        "Nut Type": "Coupling Nut",
+        "Standard": "ASTM",
+        "Grades": ["A563 Grade DH", "A194 Grade 7"]
+      },
+      {
+        "Nut Type": "Coupling Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 10", "Property Class 12", "A4-80 (Stainless)"]
+      },
+      {
+        "Nut Type": "Coupling Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 10, 12)"]
+      },
+      {
+        "Nut Type": "Cage Nut",
+        "Standard": "ASTM",
+        "Grades": ["A563 Grade A (Nut)", "SAE 1050 (Cage Steel)"]
+      },
+      {
+        "Nut Type": "Cage Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 5 (Nut)", "A2 (Stainless equivalent)"]
+      },
+      {
+        "Nut Type": "Cage Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (General Grades for Nut)"]
+      },
+      {
+        "Nut Type": "Square Weld Nut",
+        "Standard": "ASTM",
+        "Grades": ["AISI 1008/1010 (Weldable Low Carbon Steel)", "A563 Grade A"]
+      },
+      {
+        "Nut Type": "Square Weld Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 5 (Weldable)", "DIN 928 (Dimensional)"]
+      },
+      {
+        "Nut Type": "Square Weld Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Weldable Grades)"]
+      },
+      {
+        "Nut Type": "Hex Weld Nut",
+        "Standard": "ASTM",
+        "Grades": ["AISI 1008/1010 (Weldable Low Carbon Steel)", "A563 Grade A"]
+      },
+      {
+        "Nut Type": "Hex Weld Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 5 (Weldable)", "DIN 929 (Dimensional)"]
+      },
+      {
+        "Nut Type": "Hex Weld Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Weldable Grades)"]
+      },
+      {
+        "Nut Type": "Flange Weld Nut",
+        "Standard": "ASTM",
+        "Grades": ["AISI 1008/1010 (Weldable Low Carbon Steel)", "A563 Grade A"]
+      },
+      {
+        "Nut Type": "Flange Weld Nut",
+        "Standard": "ISO",
+        "Grades": ["Property Class 5 (Weldable)", "A2 (Stainless equivalent)"]
+      },
+      {
+        "Nut Type": "Flange Weld Nut",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Weldable Grades)"]}],
+        
+  "Studs": [
+      {
+        "Stud Type": "Fully Threaded Stud",
+        "Standard": "ASTM",
+        "Grades": ["A193 Grade B7", "A320 Grade L7", "F1554 Grade 105", "A193 Grade B8 (SS)"]
+      },
+      {
+        "Stud Type": "Fully Threaded Stud",
+        "Standard": "ISO",
+        "Grades": ["Property Class 8.8", "Property Class 10.9", "A2-70 (Stainless)", "A4-80 (Stainless)"]
+      },
+      {
+        "Stud Type": "Fully Threaded Stud",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 8.8, 10.9)", "IS 2062 (Mild Steel equivalent)"]
+      },
+      {
+        "Stud Type": "Tap-End Stud",
+        "Standard": "ASTM",
+        "Grades": ["A193 Grade B7", "A320 Grade L7", "A453 Grade 660"]
+      },
+      {
+        "Stud Type": "Tap-End Stud",
+        "Standard": "ISO",
+        "Grades": ["Property Class 8.8", "Property Class 10.9", "A4 (Stainless equivalent)"]
+      },
+      {
+        "Stud Type": "Tap-End Stud",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 8.8, 10.9)"]
+      },
+      {
+        "Stud Type": "Reduced-Shank Stud",
+        "Standard": "ASTM",
+        "Grades": ["A193 Grade B7 (Higher Fatigue Life)", "A320 Grade L7"]
+      },
+      {
+        "Stud Type": "Reduced-Shank Stud",
+        "Standard": "ISO",
+        "Grades": ["Property Class 10.9", "Property Class 12.9"]
+      },
+      {
+        "Stud Type": "Reduced-Shank Stud",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 10.9, 12.9)"]
+      },
+      {
+        "Stud Type": "Welding Stud",
+        "Standard": "ASTM",
+        "Grades": ["A29 (Low Carbon Steels, e.g., 1018)", "ASTM A510 (Weldable Grades)"]
+      },
+      {
+        "Stud Type": "Welding Stud",
+        "Standard": "ISO",
+        "Grades": ["DIN EN ISO 13918 (Material Grades 4.8, 5.8, A2, A4)"]
+      },
+      {
+        "Stud Type": "Welding Stud",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Weldable Mild Steel Grades)"]
+      },
+      {
+        "Stud Type": "Undercut Stud",
+        "Standard": "ASTM",
+        "Grades": ["A193 Grade B7", "A320 Grade L7"]
+      },
+      {
+        "Stud Type": "Undercut Stud",
+        "Standard": "ISO",
+        "Grades": ["Property Class 10.9", "A4-80 (Stainless equivalent)"]
+      },
+      {
+        "Stud Type": "Undercut Stud",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 10.9)"]
+      }
+    ],
+  "Washers":[
+      {
+        "Washer Type": "Flat Washer",
+        "Standard": "ASTM",
+        "Grades": ["F844 (General Use, Unhardened)", "F436 (Hardened, Structural)"]
+      },
+      {
+        "Washer Type": "Flat Washer",
+        "Standard": "ISO",
+        "Grades": ["Hardness 140HV (ISO 7089)", "Hardness 200HV", "Stainless A2/A4"]
+      },
+      {
+        "Washer Type": "Flat Washer",
+        "Standard": "IS",
+        "Grades": ["IS 2016 (Plain)", "IS 6610 (Hardened)"]
+      },
+      {
+        "Washer Type": "Heavy Washer",
+        "Standard": "ASTM",
+        "Grades": ["F436 (Structural Hardened Steel)", "ASTM F844 (Heavy Series)"]
+      },
+      {
+        "Washer Type": "Heavy Washer",
+        "Standard": "ISO",
+        "Grades": ["Hardness 300HV", "A4 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "Heavy Washer",
+        "Standard": "IS",
+        "Grades": ["IS 6610 (Hardened Steel)"]
+      },
+      {
+        "Washer Type": "Countersunk Washer",
+        "Standard": "ASTM",
+        "Grades": ["A36 (Mild Steel)", "F594 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "Countersunk Washer",
+        "Standard": "ISO",
+        "Grades": ["Hardness 140HV", "A2 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "Countersunk Washer",
+        "Standard": "IS",
+        "Grades": ["IS 2016 (General Purpose Grades)"]
+      },
+      {
+        "Washer Type": "Shoulder Washer",
+        "Standard": "ASTM",
+        "Grades": ["A36 (Mild Steel)", "Nylon/Polymer grades"]
+      },
+      {
+        "Washer Type": "Shoulder Washer",
+        "Standard": "ISO",
+        "Grades": ["Hardness 140HV", "A2 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "Shoulder Washer",
+        "Standard": "IS",
+        "Grades": ["IS 2016 (General Purpose Grades)"]
+      },
+      {
+        "Washer Type": "C-Washer",
+        "Standard": "ASTM",
+        "Grades": ["A36 (Mild Steel)"]
+      },
+      {
+        "Washer Type": "C-Washer",
+        "Standard": "ISO",
+        "Grades": ["Hardness 140HV", "A2 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "C-Washer",
+        "Standard": "IS",
+        "Grades": ["IS 2016 (General Purpose Grades)"]
+      },
+      {
+        "Washer Type": "Belleville Washer",
+        "Standard": "ASTM",
+        "Grades": ["A689 (High Carbon/Alloy Spring Steels)", "ASTM A401 (Chrome Silicon)"]
+      },
+      {
+        "Washer Type": "Belleville Washer",
+        "Standard": "ISO",
+        "Grades": ["DIN 2093 (Spring Steel Grades, e.g., 50CrV4)"]
+      },
+      {
+        "Washer Type": "Belleville Washer",
+        "Standard": "IS",
+        "Grades": ["IS 2841 (Dimensional)", "Spring Steel Grades"]
+      },
+      {
+        "Washer Type": "Dome Washer",
+        "Standard": "ASTM",
+        "Grades": ["A36 (Mild Steel)", "Spring Steel"]
+      },
+      {
+        "Washer Type": "Dome Washer",
+        "Standard": "ISO",
+        "Grades": ["DIN 6796 (Conical Spring Washer)", "Spring Steel"]
+      },
+      {
+        "Washer Type": "Dome Washer",
+        "Standard": "IS",
+        "Grades": ["Spring Steel Grades"]
+      },
+      {
+        "Washer Type": "Crescent Washer",
+        "Standard": "ASTM",
+        "Grades": ["A36 (Mild Steel)"]
+      },
+      {
+        "Washer Type": "Crescent Washer",
+        "Standard": "ISO",
+        "Grades": ["Hardness 140HV"]
+      },
+      {
+        "Washer Type": "Crescent Washer",
+        "Standard": "IS",
+        "Grades": ["IS 2016 (General Purpose Grades)"]
+      },
+      {
+        "Washer Type": "Finger Spring Washer",
+        "Standard": "ASTM",
+        "Grades": ["A689 (High Carbon/Alloy Spring Steels)"]
+      },
+      {
+        "Washer Type": "Finger Spring Washer",
+        "Standard": "ISO",
+        "Grades": ["DIN 6796 (Spring Steel Grades, e.g., 50CrV4)"]
+      },
+      {
+        "Washer Type": "Finger Spring Washer",
+        "Standard": "IS",
+        "Grades": ["Spring Steel Grades"]
+      },
+      {
+        "Washer Type": "Split Lock Washer",
+        "Standard": "ASTM",
+        "Grades": ["Carbon Spring Steel (e.g., SAE 1060-1090)", "F594 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "Split Lock Washer",
+        "Standard": "ISO",
+        "Grades": ["DIN 127 (Spring Steel)", "A2/A4 (Stainless)"]
+      },
+      {
+        "Washer Type": "Split Lock Washer",
+        "Standard": "IS",
+        "Grades": ["IS 3063 (Dimensional)", "Spring Steel Grades"]
+      },
+      {
+        "Washer Type": "Internal Tooth Lock Washer",
+        "Standard": "ASTM",
+        "Grades": ["Carbon Spring Steel", "F594 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "Internal Tooth Lock Washer",
+        "Standard": "ISO",
+        "Grades": ["DIN 6797 J (Spring Steel)", "A2/A4 (Stainless)"]
+      },
+      {
+        "Washer Type": "Internal Tooth Lock Washer",
+        "Standard": "IS",
+        "Grades": ["IS 5459 (Dimensional)", "Spring Steel Grades"]
+      },
+      {
+        "Washer Type": "External Tooth Lock Washer",
+        "Standard": "ASTM",
+        "Grades": ["Carbon Spring Steel", "F594 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "External Tooth Lock Washer",
+        "Standard": "ISO",
+        "Grades": ["DIN 6797 A (Spring Steel)", "A2/A4 (Stainless)"]
+      },
+      {
+        "Washer Type": "External Tooth Lock Washer",
+        "Standard": "IS",
+        "Grades": ["IS 5459 (Dimensional)", "Spring Steel Grades"]
+      },
+      {
+        "Washer Type": "Torque Washer",
+        "Standard": "ASTM",
+        "Grades": ["F436 (Hardened Steel)", "A36 (Mild Steel)"]
+      },
+      {
+        "Washer Type": "Torque Washer",
+        "Standard": "ISO",
+        "Grades": ["Hardness 200HV", "Hardness 300HV"]
+      },
+      {
+        "Washer Type": "Torque Washer",
+        "Standard": "IS",
+        "Grades": ["IS 6610 (Hardened Steel)"]
+      },
+      {
+        "Washer Type": "Internal Keyed Washer",
+        "Standard": "ASTM",
+        "Grades": ["A36 (Mild Steel)", "SAE 1050 (High Carbon Steel)"]
+      },
+      {
+        "Washer Type": "Internal Keyed Washer",
+        "Standard": "ISO",
+        "Grades": ["Hardness 140HV", "A2 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "Internal Keyed Washer",
+        "Standard": "IS",
+        "Grades": ["IS 2016 (General Purpose Grades)"]
+      },
+      {
+        "Washer Type": "External Keyed Washer",
+        "Standard": "ASTM",
+        "Grades": ["A36 (Mild Steel)", "SAE 1050 (High Carbon Steel)"]
+      },
+      {
+        "Washer Type": "External Keyed Washer",
+        "Standard": "ISO",
+        "Grades": ["Hardness 140HV", "A2 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "External Keyed Washer",
+        "Standard": "IS",
+        "Grades": ["IS 2016 (General Purpose Grades)"]
+      },
+      {
+        "Washer Type": "Bonded Seal Washer",
+        "Standard": "ASTM",
+        "Grades": ["A36 (Steel Washer)", "Nitrile/Viton (Elastomer Ring)"]
+      },
+      {
+        "Washer Type": "Bonded Seal Washer",
+        "Standard": "ISO",
+        "Grades": ["Hardness 140HV (Washer)", "Specific Elastomer Grades"]
+      },
+      {
+        "Washer Type": "Bonded Seal Washer",
+        "Standard": "IS",
+        "Grades": ["IS 2016 (General Purpose Washer)"]
+      },
+      {
+        "Washer Type": "Self-Aligning Washer",
+        "Standard": "ASTM",
+        "Grades": ["A36 (Mild Steel)", "F594 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "Self-Aligning Washer",
+        "Standard": "ISO",
+        "Grades": ["Hardness 140HV", "A2 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "Self-Aligning Washer",
+        "Standard": "IS",
+        "Grades": ["IS 2016 (General Purpose Grades)"]
+      },
+      {
+        "Washer Type": "Thrust Washer",
+        "Standard": "ASTM",
+        "Grades": ["Bearing Steel Grades (e.g., 52100)", "Bronze/Brass Alloys"]
+      },
+      {
+        "Washer Type": "Thrust Washer",
+        "Standard": "ISO",
+        "Grades": ["DIN 988 (Dimensional)", "Bearing Material Grades"]
+      },
+      {
+        "Washer Type": "Thrust Washer",
+        "Standard": "IS",
+        "Grades": ["Specific Bearing Material Grades"]
+      },
+      {
+        "Washer Type": "Top-Hat Washer",
+        "Standard": "ASTM",
+        "Grades": ["A36 (Mild Steel)", "Nylon/Polymer grades"]
+      },
+      {
+        "Washer Type": "Top-Hat Washer",
+        "Standard": "ISO",
+        "Grades": ["Hardness 140HV", "A2 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "Top-Hat Washer",
+        "Standard": "IS",
+        "Grades": ["IS 2016 (General Purpose Grades)"]
+      },
+      {
+        "Washer Type": "Square Tapper Washer with U Washer",
+        "Standard": "ASTM",
+        "Grades": ["F436 (Hardened Structural Steel)"]
+      },
+      {
+        "Washer Type": "Square Tapper Washer with U Washer",
+        "Standard": "ISO",
+        "Grades": ["DIN 434 / DIN 435 (Tapered Washers)", "Hardness 200HV"]
+      },
+      {
+        "Washer Type": "Square Tapper Washer with U Washer",
+        "Standard": "IS",
+        "Grades": ["IS 7002 (Dimensional)", "IS 6610 (Hardened Steel)"]
+      },
+      {
+        "Washer Type": "Single Tab Washer",
+        "Standard": "ASTM",
+        "Grades": ["A36 (Mild Steel)", "F594 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "Single Tab Washer",
+        "Standard": "ISO",
+        "Grades": ["DIN 463 (Dimensional)", "Hardness 140HV"]
+      },
+      {
+        "Washer Type": "Single Tab Washer",
+        "Standard": "IS",
+        "Grades": ["IS 5459 (Dimensional)", "General Purpose Grades"]
+      },
+      {
+        "Washer Type": "Double Tab Washer",
+        "Standard": "ASTM",
+        "Grades": ["A36 (Mild Steel)", "F594 (Stainless equivalent)"]
+      },
+      {
+        "Washer Type": "Double Tab Washer",
+        "Standard": "ISO",
+        "Grades": ["DIN 463 (Dimensional)", "Hardness 140HV"]
+      },
+      {
+        "Washer Type": "Double Tab Washer",
+        "Standard": "IS",
+        "Grades": ["IS 5459 (Dimensional)", "General Purpose Grades"]
+      }
+    ],
+  "Screws": [
+      {
+        "Screw Type": "Allen Cap Screw",
+        "Standard": "ASTM",
+        "Grades": ["A574 (Alloy Steel)", "F835 (Metric High Strength)", "F879 (Stainless Steel)"]
+      },
+      {
+        "Screw Type": "Allen Cap Screw",
+        "Standard": "ISO",
+        "Grades": ["Property Class 10.9 (ISO 4762)", "Property Class 12.9", "A4-80 (Stainless Steel)"]
+      },
+      {
+        "Screw Type": "Allen Cap Screw",
+        "Standard": "IS",
+        "Grades": ["IS 2232 (Property Class 10.9, 12.9 equivalent)"]
+      },
+      {
+        "Screw Type": "Hex Socket Countersunk Screw",
+        "Standard": "ASTM",
+        "Grades": ["A574 (Alloy Steel)", "F835 (Metric High Strength)", "F879 (Stainless Steel)"]
+      },
+      {
+        "Screw Type": "Hex Socket Countersunk Screw",
+        "Standard": "ISO",
+        "Grades": ["Property Class 10.9 (ISO 10642)", "Property Class 12.9", "A2-70 (Stainless Steel)"]
+      },
+      {
+        "Screw Type": "Hex Socket Countersunk Screw",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 10.9 equivalent)"]
+      },
+      {
+        "Screw Type": "Hex Socket Set Screw with Flat point",
+        "Standard": "ASTM",
+        "Grades": ["F912 (Alloy Steel)", "F835 (Metric Alloy Steel)", "F879 (Stainless Steel)"]
+      },
+      {
+        "Screw Type": "Hex Socket Set Screw with Flat point",
+        "Standard": "ISO",
+        "Grades": ["Property Class 45H (ISO 4026)", "A4-80 (Stainless Steel)"]
+      },
+      {
+        "Screw Type": "Hex Socket Set Screw with Flat point",
+        "Standard": "IS",
+        "Grades": ["IS 2388 (High Strength Grades)"]
+      },
+      {
+        "Screw Type": "Hex Socket Set Screw with Cone Point",
+        "Standard": "ASTM",
+        "Grades": ["F912 (Alloy Steel)", "F835 (Metric Alloy Steel)"]
+      },
+      {
+        "Screw Type": "Hex Socket Set Screw with Cone Point",
+        "Standard": "ISO",
+        "Grades": ["Property Class 45H (ISO 4027)", "A4-80 (Stainless Steel)"]
+      },
+      {
+        "Screw Type": "Hex Socket Set Screw with Cone Point",
+        "Standard": "IS",
+        "Grades": ["IS 2388 (High Strength Grades)"]
+      },
+      {
+        "Screw Type": "Hex Socket Set Screw with Dog point",
+        "Standard": "ASTM",
+        "Grades": ["F912 (Alloy Steel)", "F835 (Metric Alloy Steel)"]
+      },
+      {
+        "Screw Type": "Hex Socket Set Screw with Dog point",
+        "Standard": "ISO",
+        "Grades": ["Property Class 45H (ISO 4028)", "A4-80 (Stainless Steel)"]
+      },
+      {
+        "Screw Type": "Hex Socket Set Screw with Dog point",
+        "Standard": "IS",
+        "Grades": ["IS 2388 (High Strength Grades)"]
+      },
+      {
+        "Screw Type": "Hex Socket Set Screw with Cup Point",
+        "Standard": "ASTM",
+        "Grades": ["F912 (Alloy Steel)", "F835 (Metric Alloy Steel)"]
+      },
+      {
+        "Screw Type": "Hex Socket Set Screw with Cup Point",
+        "Standard": "ISO",
+        "Grades": ["Property Class 45H (ISO 4029)", "A4-80 (Stainless Steel)"]
+      },
+      {
+        "Screw Type": "Hex Socket Set Screw with Cup Point",
+        "Standard": "IS",
+        "Grades": ["IS 2388 (High Strength Grades)"]
+      },
+      {
+        "Screw Type": "Hexagon Head Cap Screw (Fully Threaded)",
+        "Standard": "ASTM",
+        "Grades": ["A307 Grade B", "A449", "A193 Grade B7", "F593 (Stainless equivalent)"]
+      },
+      {
+        "Screw Type": "Hexagon Head Cap Screw (Fully Threaded)",
+        "Standard": "ISO",
+        "Grades": ["Property Class 8.8 (ISO 4017)", "Property Class 10.9", "Property Class 12.9", "A2-70 (Stainless)"]
+      },
+      {
+        "Screw Type": "Hexagon Head Cap Screw (Fully Threaded)",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 8.8, 10.9)", "IS 3757 (Structural)"]
+      },
+      {
+        "Screw Type": "Hexagon Head Cap Screw (Partially Threaded)",
+        "Standard": "ASTM",
+        "Grades": ["A307 Grade B", "A449", "A193 Grade B7", "F593 (Stainless equivalent)"]
+      },
+      {
+        "Screw Type": "Hexagon Head Cap Screw (Partially Threaded)",
+        "Standard": "ISO",
+        "Grades": ["Property Class 8.8 (ISO 4014)", "Property Class 10.9", "Property Class 12.9", "A4-80 (Stainless)"]
+      },
+      {
+        "Screw Type": "Hexagon Head Cap Screw (Partially Threaded)",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 8.8, 10.9)", "IS 3757 (Structural)"]
+      },
+      {
+        "Screw Type": "Heavy Hex Cap Screw",
+        "Standard": "ASTM",
+        "Grades": ["A325 (Structural, now F3125)", "A490 (Structural, now F3125)", "A193 Grade B7"]
+      },
+      {
+        "Screw Type": "Heavy Hex Cap Screw",
+        "Standard": "ISO",
+        "Grades": ["Property Class 10.9", "Property Class 12.9 (ASME B18.2.1 dimensions)"]
+      },
+      {
+        "Screw Type": "Heavy Hex Cap Screw",
+        "Standard": "IS",
+        "Grades": ["IS 3757 (Structural, High Strength, Heavy Series)"]
+      },
+      {
+        "Screw Type": "Slotted Pan Head Screw",
+        "Standard": "ASTM",
+        "Grades": ["A307 Grade A", "SAE Grade 2", "F593 (Stainless equivalent)"]
+      },
+      {
+        "Screw Type": "Slotted Pan Head Screw",
+        "Standard": "ISO",
+        "Grades": ["Property Class 4.8", "Property Class 8.8", "A2-70 (Stainless, ISO 1580)"]
+      },
+      {
+        "Screw Type": "Slotted Pan Head Screw",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 4.6, 8.8)", "IS 7486 (Dimensional)"]
+      },
+      {
+        "Screw Type": "Hexagonal Socket Button Head Screw",
+        "Standard": "ASTM",
+        "Grades": ["A574 (Alloy Steel)", "F835 (Metric High Strength)", "F879 (Stainless Steel)"]
+      },
+      {
+        "Screw Type": "Hexagonal Socket Button Head Screw",
+        "Standard": "ISO",
+        "Grades": ["Property Class 10.9 (ISO 7380)", "Property Class 12.9", "A4-80 (Stainless Steel)"]
+      },
+      {
+        "Screw Type": "Hexagonal Socket Button Head Screw",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 10.9 equivalent)"]
+      },
+      {
+        "Screw Type": "Cheese Head Screw",
+        "Standard": "ASTM",
+        "Grades": ["A307 Grade A", "SAE Grade 2", "F593 (Stainless equivalent)"]
+      },
+      {
+        "Screw Type": "Cheese Head Screw",
+        "Standard": "ISO",
+        "Grades": ["Property Class 4.8", "Property Class 5.8 (ISO 1207)", "A2-70 (Stainless)"]
+      },
+      {
+        "Screw Type": "Cheese Head Screw",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 4.6, 5.8)"]
+      },
+      {
+        "Screw Type": "Hex Socket Head Shoulder Screw",
+        "Standard": "ASTM",
+        "Grades": ["F835 (Alloy Steel)", "F879 (Stainless Steel)", "A574 (Alloy Steel)"]
+      },
+      {
+        "Screw Type": "Hex Socket Head Shoulder Screw",
+        "Standard": "ISO",
+        "Grades": ["Property Class 12.9", "A4-80 (Stainless equivalent)"]
+      },
+      {
+        "Screw Type": "Hex Socket Head Shoulder Screw",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 12.9 equivalent)"]
+      },
+      {
+        "Screw Type": "Pan Filips Screw",
+        "Standard": "ASTM",
+        "Grades": ["A307 Grade A", "SAE Grade 2", "F593 (Stainless equivalent)"]
+      },
+      {
+        "Screw Type": "Pan Filips Screw",
+        "Standard": "ISO",
+        "Grades": ["Property Class 4.8", "Property Class 8.8", "A2-70 (Stainless, ISO 7045)"]
+      },
+      {
+        "Screw Type": "Pan Filips Screw",
+        "Standard": "IS",
+        "Grades": ["IS 1367 (Property Class 4.6, 8.8)", "IS 7486 (Dimensional)"]
+      }
+    ]
+  }

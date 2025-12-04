@@ -1,0 +1,1830 @@
+{
+  "STEEL": [
+    {
+      "Material No.": "1.0332",
+      "Germany DIN": "St14",
+      "GB BS": "14491CR",
+      "USA": "1008",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.1121",
+      "Germany DIN": "Ck10",
+      "GB BS": "040A10",
+      "USA": "1010",
+      "JAPAN": "S10C"
+    },
+    {
+      "Material No.": "1.0721",
+      "Germany DIN": "10S20",
+      "GB BS": "210M15",
+      "USA": "1108",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.0401",
+      "Germany DIN": "C15",
+      "GB BS": "080M15",
+      "USA": "1015",
+      "JAPAN": "S15C"
+    },
+    {
+      "Material No.": "1.0402",
+      "Germany DIN": "C22",
+      "GB BS": "050A20",
+      "USA": "1020",
+      "JAPAN": "S20C, S22C"
+    },
+    {
+      "Material No.": "1.1141",
+      "Germany DIN": "Ck15",
+      "GB BS": "080M15",
+      "USA": "1015",
+      "JAPAN": "S15C"
+    },
+    {
+      "Material No.": "1.0036",
+      "Germany DIN": "USt37-3",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.0715",
+      "Germany DIN": "9SMn28",
+      "GB BS": "230M07",
+      "USA": "1213",
+      "JAPAN": "SUM22"
+    },
+    {
+      "Material No.": "1.0718",
+      "Germany DIN": "9SMnPb28",
+      "GB BS": "12L3",
+      "USA": "",
+      "JAPAN": "SUM22L"
+    },
+    {
+      "Material No.": "1.0501",
+      "Germany DIN": "C35",
+      "GB BS": "060A35",
+      "USA": "1035",
+      "JAPAN": "S35C"
+    },
+    {
+      "Material No.": "1.0503",
+      "Germany DIN": "C45",
+      "GB BS": "080M46",
+      "USA": "1045",
+      "JAPAN": "S45C"
+    },
+    {
+      "Material No.": "1.1158",
+      "Germany DIN": "Ck25",
+      "GB BS": "070M25",
+      "USA": "1025",
+      "JAPAN": "S25C"
+    },
+    {
+      "Material No.": "1.1183",
+      "Germany DIN": "Cf35",
+      "GB BS": "060A35",
+      "USA": "1035",
+      "JAPAN": "S35C"
+    },
+    {
+      "Material No.": "1.1191",
+      "Germany DIN": "Ck45",
+      "GB BS": "080M46",
+      "USA": "1045",
+      "JAPAN": "S45C"
+    },
+    {
+      "Material No.": "1.1213",
+      "Germany DIN": "Cf53",
+      "GB BS": "060A52",
+      "USA": "1050",
+      "JAPAN": "S50C"
+    },
+    {
+      "Material No.": "1.5415",
+      "Germany DIN": "15Mo3",
+      "GB BS": "1501-240",
+      "USA": "ASTMA204GrA",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.5423",
+      "Germany DIN": "16Mo5",
+      "GB BS": "1503-245-420",
+      "USA": "4520",
+      "JAPAN": "SB450M"
+    },
+    {
+      "Material No.": "1.0050",
+      "Germany DIN": "St50-2",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": "SM50YA"
+    },
+    {
+      "Material No.": "1.7242",
+      "Germany DIN": "16CrMo 4 4",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.7337",
+      "Germany DIN": "16CrMo 4 4",
+      "GB BS": "",
+      "USA": "A387Gr.12Cl",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.7362",
+      "Germany DIN": "12CrMo 19 5",
+      "GB BS": "3606-625",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.0060",
+      "Germany DIN": "St60-2",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": "SM570"
+    },
+    {
+      "Material No.": "1.0535",
+      "Germany DIN": "C55",
+      "GB BS": "070M55",
+      "USA": "1055",
+      "JAPAN": "S55C"
+    },
+    {
+      "Material No.": "1.0332",
+      "Germany DIN": "St14",
+      "GB BS": "14491CR",
+      "USA": "1008",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.1121",
+      "Germany DIN": "Ck10",
+      "GB BS": "040A10",
+      "USA": "1010",
+      "JAPAN": "S10C"
+    },
+    {
+      "Material No.": "1.0721",
+      "Germany DIN": "10S20",
+      "GB BS": "210M15",
+      "USA": "1108",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.0401",
+      "Germany DIN": "C15",
+      "GB BS": "080M15",
+      "USA": "1015",
+      "JAPAN": "S15C"
+    },
+    {
+      "Material No.": "1.0402",
+      "Germany DIN": "C22",
+      "GB BS": "050A20",
+      "USA": "1020",
+      "JAPAN": "S20C, S22C"
+    },
+    {
+      "Material No.": "1.1141",
+      "Germany DIN": "Ck15",
+      "GB BS": "080M15",
+      "USA": "1015",
+      "JAPAN": "S15C"
+    },
+    {
+      "Material No.": "1.0036",
+      "Germany DIN": "USt37-3",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.0715",
+      "Germany DIN": "9SMn28",
+      "GB BS": "230M07",
+      "USA": "1213",
+      "JAPAN": "SUM22"
+    },
+    {
+      "Material No.": "1.0718",
+      "Germany DIN": "9SMnPb28",
+      "GB BS": "12L3",
+      "USA": "",
+      "JAPAN": "SUM22L"
+    },
+    {
+      "Material No.": "1.0501",
+      "Germany DIN": "C35",
+      "GB BS": "060A35",
+      "USA": "1035",
+      "JAPAN": "S35C"
+    },
+    {
+      "Material No.": "1.0503",
+      "Germany DIN": "C45",
+      "GB BS": "080M46",
+      "USA": "1045",
+      "JAPAN": "S45C"
+    },
+    {
+      "Material No.": "1.1158",
+      "Germany DIN": "Ck25",
+      "GB BS": "070M25",
+      "USA": "1025",
+      "JAPAN": "S25C"
+    },
+    {
+      "Material No.": "1.1183",
+      "Germany DIN": "Cf35",
+      "GB BS": "060A35",
+      "USA": "1035",
+      "JAPAN": "S35C"
+    },
+    {
+      "Material No.": "1.1191",
+      "Germany DIN": "Ck45",
+      "GB BS": "080M46",
+      "USA": "1045",
+      "JAPAN": "S45C"
+    },
+    {
+      "Material No.": "1.1213",
+      "Germany DIN": "Cf53",
+      "GB BS": "060A52",
+      "USA": "1050",
+      "JAPAN": "S50C"
+    },
+    {
+      "Material No.": "1.5415",
+      "Germany DIN": "15Mo3",
+      "GB BS": "1501-240",
+      "USA": "ASTMA204GrA",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.5423",
+      "Germany DIN": "16Mo5",
+      "GB BS": "1503-245-420",
+      "USA": "4520",
+      "JAPAN": "SB450M"
+    },
+    {
+      "Material No.": "1.0050",
+      "Germany DIN": "St50-2",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": "SM50YA"
+    },
+    {
+      "Material No.": "1.7242",
+      "Germany DIN": "16CrMo 4 4",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.7337",
+      "Germany DIN": "16CrMo 4 4",
+      "GB BS": "",
+      "USA": "A387Gr.12Cl",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.7362",
+      "Germany DIN": "12CrMo 19 5",
+      "GB BS": "3606-625",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.0060",
+      "Germany DIN": "St60-2",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": "SM570"
+    },
+    {
+      "Material No.": "1.0535",
+      "Germany DIN": "C55",
+      "GB BS": "070M55",
+      "USA": "1055",
+      "JAPAN": "S55C"
+    },
+    {
+      "Material No.": "1.0332",
+      "Germany DIN": "St14",
+      "GB BS": "14491CR",
+      "USA": "1008",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.1121",
+      "Germany DIN": "Ck10",
+      "GB BS": "040A10",
+      "USA": "1010",
+      "JAPAN": "S10C"
+    },
+    {
+      "Material No.": "1.0721",
+      "Germany DIN": "10S20",
+      "GB BS": "210M15",
+      "USA": "1108",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.0401",
+      "Germany DIN": "C15",
+      "GB BS": "080M15",
+      "USA": "1015",
+      "JAPAN": "S15C"
+    },
+    {
+      "Material No.": "1.0402",
+      "Germany DIN": "C22",
+      "GB BS": "050A20",
+      "USA": "1020",
+      "JAPAN": "S20C, S22C"
+    },
+    {
+      "Material No.": "1.1141",
+      "Germany DIN": "Ck15",
+      "GB BS": "080M15",
+      "USA": "1015",
+      "JAPAN": "S15C"
+    },
+    {
+      "Material No.": "1.0036",
+      "Germany DIN": "USt37-3",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.0715",
+      "Germany DIN": "9SMn28",
+      "GB BS": "230M07",
+      "USA": "1213",
+      "JAPAN": "SUM22"
+    },
+    {
+      "Material No.": "1.0718",
+      "Germany DIN": "9SMnPb28",
+      "GB BS": "12L3",
+      "USA": "",
+      "JAPAN": "SUM22L"
+    },
+    {
+      "Material No.": "1.0501",
+      "Germany DIN": "C35",
+      "GB BS": "060A35",
+      "USA": "1035",
+      "JAPAN": "S35C"
+    },
+    {
+      "Material No. " : "1.0503",
+      "Germany DIN": "C45",
+      "GB BS": "080M46",
+      "USA": "1045",
+      "JAPAN": "S45C"
+    },
+    {
+      "Material No.": "1.1158",
+      "Germany DIN": "Ck25",
+      "GB BS": "070M25",
+      "USA": "1025",
+      "JAPAN": "S25C"
+    },
+    {
+      "Material No.": "1.1183",
+      "Germany DIN": "Cf35",
+      "GB BS": "060A35",
+      "USA": "1035",
+      "JAPAN": "S35C"
+    },
+    {
+      "Material No.": "1.1191",
+      "Germany DIN": "Ck45",
+      "GB BS": "080M46",
+      "USA": "1045",
+      "JAPAN": "S45C"
+    },
+    {
+      "Material No.": "1.1213",
+      "Germany DIN": "Cf53",
+      "GB BS": "060A52",
+      "USA": "1050",
+      "JAPAN": "S50C"
+    },
+    {
+      "Material No.": "1.5415",
+      "Germany DIN": "15Mo3",
+      "GB BS": "1501-240",
+      "USA": "ASTMA204GrA",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.5423",
+      "Germany DIN": "16Mo5",
+      "GB BS": "1503-245-420",
+      "USA": "4520",
+      "JAPAN": "SB450M"
+    },
+    {
+      "Material No.": "1.0050",
+      "Germany DIN": "St50-2",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": "SM50YA"
+    },
+    {
+      "Material No.": "1.7242",
+      "Germany DIN": "16CrMo 4",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.7337",
+      "Germany DIN": "16CrMo 4 4",
+      "GB BS": "",
+      "USA": "A387Gr.12Cl",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.7362",
+      "Germany DIN": "12CrMo 19 5",
+      "GB BS": "3606-625",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.0060",
+      "Germany DIN": "St60-2",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": "SM570"
+    },
+    {
+      "Material No.": "1.0535",
+      "Germany DIN": "C55",
+      "GB BS": "070M55",
+      "USA": "1055",
+      "JAPAN": "S55C"
+    },
+    {
+      "Material No.": "1.0601",
+      "Germany DIN": "C60",
+      "GB BS": "080A62",
+      "USA": "1060",
+      "JAPAN": "S60C"
+    },
+    {
+      "Material No.": "1.1203",
+      "Germany DIN": "Ck55",
+      "GB BS": "070M55",
+      "USA": "1055",
+      "JAPAN": "S55C"
+    },
+    {
+      "Material No.": "1.1221",
+      "Germany DIN": "Ck60",
+      "GB BS": "080A62",
+      "USA": "1060",
+      "JAPAN": "S58C"
+    },
+    {
+      "Material No.": "1.1545",
+      "Germany DIN": "C1051",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": "SK3"
+    },
+    {
+      "Material No.": "1.1545",
+      "Germany DIN": "C105W1",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": "SK3"
+    },
+    {
+      "Material No.": "1.0070",
+      "Germany DIN": "St70-2",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.7238",
+      "Germany DIN": "49CrMo4",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.7561",
+      "Germany DIN": "42CrV6",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.7701",
+      "Germany DIN": "51CrMoV4",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    }
+  ],
+  "LOW-ALLOY STEEL, CAST STEEL, FREE-MACHINING STEEL": [
+    {
+      "Material No.": "1.2067",
+      "Germany DIN": "100Cr6",
+      "GB BS": "BL3",
+      "USA": "L3",
+      "JAPAN": "SUJ2"
+    },
+    {
+      "Material No.": "1.2210",
+      "Germany DIN": "115CrV3",
+      "GB BS": "",
+      "USA": "L2",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.2241",
+      "Germany DIN": "51CrV4",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.2419",
+      "Germany DIN": "105WCr6",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": "SKS31"
+    },
+    {
+      "Material No.": "1.2419",
+      "Germany DIN": "105WCr6",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": "SKS31"
+    },
+    {
+      "Material No.": "1.2542",
+      "Germany DIN": "45WCrV7",
+      "GB BS": "BS1",
+      "USA": "S1",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.2550",
+      "Germany DIN": "60WCrV7",
+      "GB BS": "",
+      "USA": "S1",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.2713",
+      "Germany DIN": "55NiCrMoV6",
+      "GB BS": "",
+      "USA": "L6",
+      "JAPAN": "SKH1, SKT4"
+    },
+    {
+      "Material No.": "1.2721",
+      "Germany DIN": "50NiCr13",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.2762",
+      "Germany DIN": "75CrMoNiW67",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.2762",
+      "Germany DIN": "75CrMoNiW67",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.2842",
+      "Germany DIN": "90MnCrV8",
+      "GB BS": "B02",
+      "USA": "O2",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.3505",
+      "Germany DIN": "100Cr6",
+      "GB BS": "534A99",
+      "USA": "52100",
+      "JAPAN": "SUJ2"
+    },
+    {
+      "Material No.": "1.5622",
+      "Germany DIN": "14Ni6",
+      "GB BS": "",
+      "USA": "ASTMA350LF5",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.5732",
+      "Germany DIN": "14NiCr10",
+      "GB BS": "3415",
+      "USA": "",
+      "JAPAN": "SNC415(H)"
+    },
+    {
+      "Material No.": "1.5752",
+      "Germany DIN": "14NiCr14",
+      "GB BS": "655M13",
+      "USA": "3415;3310",
+      "JAPAN": "SNC815(H)"
+    },
+    {
+      "Material No.": "1.6511",
+      "Germany DIN": "36CrNiMo4",
+      "GB BS": "816M40",
+      "USA": "9840",
+      "JAPAN": "SNCM447"
+    },
+    {
+      "Material No.": "1.6523",
+      "Germany DIN": "21NiCrMo2",
+      "GB BS": "805M20",
+      "USA": "8620",
+      "JAPAN": "SNCM220(H)"
+    },
+    {
+      "Material No.": "1.6546",
+      "Germany DIN": "40NiCrMo22",
+      "GB BS": "311-TYPE7",
+      "USA": "8740",
+      "JAPAN": "SNCM240"
+    },
+    {
+      "Material No.": "1.6582",
+      "Germany DIN": "35CrNiMo6",
+      "GB BS": "817M40",
+      "USA": "4340",
+      "JAPAN": "SNCM447"
+    },
+    {
+      "Material No.": "1.6587",
+      "Germany DIN": "17NiCrMo6",
+      "GB BS": "820A16",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.6657",
+      "Germany DIN": "14NiCrMo34",
+      "GB BS": "832M13",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.7033",
+      "Germany DIN": "34Cr4",
+      "GB BS": "530A32",
+      "USA": "5132",
+      "JAPAN": "SCR430(H)"
+    },
+    {
+      "Material No.": "1.7035",
+      "Germany DIN": "41Cr4",
+      "GB BS": "530M40",
+      "USA": "5140",
+      "JAPAN": "SCR440(H)"
+    },
+    {
+      "Material No.": "1.7045",
+      "Germany DIN": "42Cr4",
+      "GB BS": "530A40",
+      "USA": "5140",
+      "JAPAN": "SCR440"
+    },
+    {
+      "Material No.": "1.7131",
+      "Germany DIN": "16MnCr5",
+      "GB BS": "(527M20)",
+      "USA": "5115",
+      "JAPAN": "SCR415"
+    },
+    {
+      "Material No.": "1.7176",
+      "Germany DIN": "55Cr3",
+      "GB BS": "527A60",
+      "USA": "5155",
+      "JAPAN": "SUP9(A)"
+    },
+    {
+      "Material No.": "1.7218",
+      "Germany DIN": "25CrMo4",
+      "GB BS": "1717CDS110",
+      "USA": "4130",
+      "JAPAN": "SM420;SCM430"
+    },
+    {
+      "Material No.": "1.7220",
+      "Germany DIN": "34CrMo4",
+      "GB BS": "708A37",
+      "USA": "4137;4135",
+      "JAPAN": "SCM432;SCCRM3"
+    }
+  ],
+  "PLAIN STEEL, CAST STEEL, FREE-MACHINING STEEL": [
+    {
+      "Material No.": "1.7223",
+      "Germany DIN": "41CrMo4",
+      "GB BS": "708M40",
+      "USA": "4140;4142",
+      "JAPAN": "SCM440"
+    },
+    {
+      "Material No.": "1.7225",
+      "Germany DIN": "42CrMo4",
+      "GB BS": "708M40",
+      "USA": "4140",
+      "JAPAN": "SCM440(H)"
+    },
+    {
+      "Material No.": "1.7262",
+      "Germany DIN": "15CrMo5",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": "SCM415(H)"
+    },
+    {
+      "Material No.": "1.7335",
+      "Germany DIN": "13CrMo4-5",
+      "GB BS": "1501-620-Gr27",
+      "USA": "ASTMA182",
+      "JAPAN": "SPVAF12"
+    },
+    {
+      "Material No.": "1.7361",
+      "Germany DIN": "32CrMo12",
+      "GB BS": "722M24",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.7380",
+      "Germany DIN": "10CrMo9-10",
+      "GB BS": "1501-622Gr31;45",
+      "USA": "ASTMA182F.22",
+      "JAPAN": "SPVA, SCMV4"
+    },
+    {
+      "Material No.": "1.7715",
+      "Germany DIN": "14MoV6-3",
+      "GB BS": "1503-660-440",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.8159",
+      "Germany DIN": "50CrV4",
+      "GB BS": "735A50",
+      "USA": "6150",
+      "JAPAN": "SUP10"
+    },
+    {
+      "Material No.": "1.8159",
+      "Germany DIN": "50CrV4",
+      "GB BS": "735A50",
+      "USA": "6150",
+      "JAPAN": "SUP10"
+    },
+    {
+      "Material No.": "1.3501",
+      "Germany DIN": "100Cr2",
+      "GB BS": "",
+      "USA": "E50100",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.5710",
+      "Germany DIN": "36NiCr6",
+      "GB BS": "640A35",
+      "USA": "3135",
+      "JAPAN": "SNC236"
+    },
+    {
+      "Material No. " : "1.5736",
+      "Germany DIN": "36NiCr10",
+      "GB BS": "",
+      "USA": "3435",
+      "JAPAN": "SNC631(H)"
+    },
+    {
+      "Material No.": "1.5755",
+      "Germany DIN": "31NiCr14",
+      "GB BS": "653M31",
+      "USA": "",
+      "JAPAN": "SNC836"
+    },
+    {
+      "Material No.": "1.7733",
+      "Germany DIN": "24CrMoV55",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.7755",
+      "Germany DIN": "GS-45CrMoV104",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.8070",
+      "Germany DIN": "21CrMoV511",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.8509",
+      "Germany DIN": "41CrAlMo7",
+      "GB BS": "905M39",
+      "USA": "",
+      "JAPAN": "SACM645"
+    },
+    {
+      "Material No.": "1.8523",
+      "Germany DIN": "39CrMoV139",
+      "GB BS": "897M39",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.2311",
+      "Germany DIN": "40CrMnMo7",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.4882",
+      "Germany DIN": "X50CrMnNiNbN219",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.5864",
+      "Germany DIN": "35NiCr18",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    }
+  ],
+  "HIGH-ALLOY STEEL, CAST STEEL": [
+    {
+      "Material No.": "1.2343",
+      "Germany DIN": "X38CrMoV51",
+      "GB BS": "BH11",
+      "USA": "H11",
+      "JAPAN": "SKD6"
+    },
+    {
+      "Material No.": "1.2344",
+      "Germany DIN": "X40CrMoV51",
+      "GB BS": "BH13",
+      "USA": "H13",
+      "JAPAN": "SKD61"
+    },
+    {
+      "Material No.": "1.2379",
+      "Germany DIN": "X155CrVMo121",
+      "GB BS": "BD2",
+      "USA": "D2",
+      "JAPAN": "SKD11"
+    },
+    {
+      "Material No.": "1.2436",
+      "Germany DIN": "X201CrV12",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": "SKD2"
+    },
+    {
+      "Material No.": "1.2581",
+      "Germany DIN": "X30WCrV93",
+      "GB BS": "BH21",
+      "USA": "H21",
+      "JAPAN": "SKD5"
+    },
+    {
+      "Material No.": "1.2601",
+      "Germany DIN": "X165CrMoV12",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.2606",
+      "Germany DIN": "X37CrMoW51",
+      "GB BS": "BH12",
+      "USA": "H12",
+      "JAPAN": "SKD62"
+    },
+    {
+      "Material No.": "1.5662",
+      "Germany DIN": "X8Ni9",
+      "GB BS": "1501;509;50",
+      "USA": "ASTMA353",
+      "JAPAN": "SL9N53"
+    },
+    {
+      "Material No.": "1.5680",
+      "Germany DIN": "12Ni19",
+      "GB BS": "",
+      "USA": "2515",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.3202",
+      "Germany DIN": "S12-1-4-5",
+      "GB BS": "BT15",
+      "USA": "",
+      "JAPAN": "SKH57"
+    },
+    {
+      "Material No.": "1.3207",
+      "Germany DIN": "S10-4-3-10",
+      "GB BS": "BT42",
+      "USA": "",
+      "JAPAN": "SKH55"
+    },
+    {
+      "Material No.": "1.3243",
+      "Germany DIN": "S6-5-2-5",
+      "GB BS": "",
+      "USA": "T15",
+      "JAPAN": "SKH55"
+    },
+    {
+      "Material No.": "1.3246",
+      "Germany DIN": "S7-4-2-5",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.3247",
+      "Germany DIN": "S2-10-1-8",
+      "GB BS": "BM42",
+      "USA": "",
+      "JAPAN": "SKH51"
+    },
+    {
+      "Material No.": "1.3249",
+      "Germany DIN": "S2-9-2-8",
+      "GB BS": "BM34",
+      "USA": "M42",
+      "JAPAN": "SKH9"
+    },
+    {
+      "Material No.": "1.3343",
+      "Germany DIN": "S6-5-2",
+      "GB BS": "BM2",
+      "USA": "M35",
+      "JAPAN": "SKH9;SKH51"
+    }
+  ],
+  "STAINLESS STEEL, CAST STEEL": [
+    {
+      "Material No.": "1.4000",
+      "Germany DIN": "X6Cr13",
+      "GB BS": "403S17",
+      "USA": "403",
+      "JAPAN": "SUS403"
+    },
+    {
+      "Material No.": "1.4001",
+      "Germany DIN": "X6Cr14",
+      "GB BS": "",
+      "USA": "410S, 429",
+      "JAPAN": "SUS410S, 429"
+    },
+    {
+      "Material No.": "1.4002",
+      "Germany DIN": "X6CrAl13",
+      "GB BS": "405S17",
+      "USA": "405",
+      "JAPAN": "SUS405"
+    },
+    {
+      "Material No.": "1.4006",
+      "Germany DIN": "(G-)X10Cr13",
+      "GB BS": "410S21",
+      "USA": "SUS410",
+      "JAPAN": "SUS410"
+    },
+    {
+      "Material No.": "1.4016",
+      "Germany DIN": "X8Cr17",
+      "GB BS": "430S15",
+      "USA": "430",
+      "JAPAN": "SUS430"
+    },
+    {
+      "Material No.": "1.4021",
+      "Germany DIN": "X20Cr13",
+      "GB BS": "420S37",
+      "USA": "420",
+      "JAPAN": "SUS420J1"
+    },
+    {
+      "Material No.": "1.4027",
+      "Germany DIN": "G-X20Cr14",
+      "GB BS": "420C29",
+      "USA": "",
+      "JAPAN": "SCS2"
+    },
+    {
+      "Material No.": "1.4086",
+      "Germany DIN": "G-X120Cr29",
+      "GB BS": "452C11",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.4104",
+      "Germany DIN": "X12CrMoS17",
+      "GB BS": "441S29",
+      "USA": "430F",
+      "JAPAN": "SUS430F"
+    },
+    {
+      "Material No.": "1.4113",
+      "Germany DIN": "X6CrMo17",
+      "GB BS": "434S17",
+      "USA": "434",
+      "JAPAN": "SUS434"
+    },
+    {
+      "Material No.": "1.4340",
+      "Germany DIN": "G-X40CrNi274",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.4417",
+      "Germany DIN": "X2CrNiMoSi195",
+      "GB BS": "",
+      "USA": "S31500",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.4720",
+      "Germany DIN": "X20CrMo13",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.4724",
+      "Germany DIN": "X10CrAlA13",
+      "GB BS": "403S17",
+      "USA": "405",
+      "JAPAN": "SUS405"
+    },
+    {
+      "Material No.": "1.4742",
+      "Germany DIN": "X10CrAlA18",
+      "GB BS": "430S15",
+      "USA": "430",
+      "JAPAN": "SUS430"
+    },
+    {
+      "Material No.": "1.4762",
+      "Germany DIN": "X10CrAl24",
+      "GB BS": "",
+      "USA": "446",
+      "JAPAN": "SUH446"
+    },
+    {
+      "Material No.": "1.4034",
+      "Germany DIN": "X46Cr13",
+      "GB BS": "420S45",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "1.4057",
+      "Germany DIN": "X20CrNi17",
+      "GB BS": "431S29",
+      "USA": "431",
+      "JAPAN": "SUS431"
+    },
+    {
+      "Material No.": "1.4125",
+      "Germany DIN": "X105CrMo17",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": "SUS440C"
+    }
+  ],
+  "STAINLESS STEEL AND CAST IRON": {
+    "AUSTENITIC STAINLESS STEEL": [
+      {
+        "Material No.": "1.4301",
+        "Germany DIN": "X5CrNi189",
+        "GB BS": "304S15",
+        "USA": "304",
+        "JAPAN": "SUS304"
+      },
+      {
+        "Material No.": "1.4310",
+        "Germany DIN": "X12CrNi177",
+        "GB BS": "301S21",
+        "USA": "301",
+        "JAPAN": "SUS301"
+      },
+      {
+        "Material No.": "1.4311",
+        "Germany DIN": "X2CrNiN1810",
+        "GB BS": "304S62",
+        "USA": "304LN",
+        "JAPAN": "SUS304LN"
+      },
+      {
+        "Material No.": "1.4312",
+        "Germany DIN": "G-X10CrNi188",
+        "GB BS": "302C25",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "1.4350",
+        "Germany DIN": "X5CrNi189",
+        "GB BS": "304S31",
+        "USA": "304",
+        "JAPAN": ""
+      },
+      {
+        "Material No. " : "1.4362",
+        "Germany DIN": "X2CrNiN234",
+        "GB BS": "",
+        "USA": "S32304",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "1.4401",
+        "Germany DIN": "X5CrNiMo17122",
+        "GB BS": "316S16",
+        "USA": "316",
+        "JAPAN": "SUS316"
+      },
+      {
+        "Material No.": "1.4404",
+        "Germany DIN": "X2CrNiMo1810",
+        "GB BS": "316S12",
+        "USA": "316L",
+        "JAPAN": "SUS316L"
+      },
+      {
+        "Material No.": "1.4410",
+        "Germany DIN": "G-X10CrNiMo189",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "1.4429",
+        "Germany DIN": "X2CrNiMoN17133",
+        "GB BS": "316S63",
+        "USA": "316LN",
+        "JAPAN": "SUS316LN"
+      },
+      {
+        "Material No.": "1.4435",
+        "Germany DIN": "X2CrNiMo18143",
+        "GB BS": "316S13",
+        "USA": "316L",
+        "JAPAN": "SCS16"
+      },
+      {
+        "Material No.": "1.4436",
+        "Germany DIN": "X5CrNiMo17133",
+        "GB BS": "316S33",
+        "USA": "316",
+        "JAPAN": "SUS316"
+      },
+      {
+        "Material No.": "1.4438",
+        "Germany DIN": "X2CrNiMo18164",
+        "GB BS": "317S12",
+        "USA": "317L",
+        "JAPAN": "SUS317L"
+      },
+      {
+        "Material No.": "1.4500",
+        "Germany DIN": "G-X7NiCrMoCuNb2520",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "1.4541",
+        "Germany DIN": "X10CrNiMoTi1810",
+        "GB BS": "321S12",
+        "USA": "321",
+        "JAPAN": "SUS321"
+      },
+      {
+        "Material No.": "1.4550",
+        "Germany DIN": "X10CrNiNb",
+        "GB BS": "347S17",
+        "USA": "347",
+        "JAPAN": "SUS347"
+      },
+      {
+        "Material No.": "1.4552",
+        "Germany DIN": "G-X7CrNiNb189",
+        "GB BS": "347C17",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "1.4571",
+        "Germany DIN": "X10CrNiMoTiNb1810",
+        "GB BS": "320S17",
+        "USA": "316Ti",
+        "JAPAN": "SUS316Ti"
+      },
+      {
+        "Material No.": "1.4583",
+        "Germany DIN": "X10CrNiMoNb1812",
+        "GB BS": "",
+        "USA": "318",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "1.4585",
+        "Germany DIN": "G-X7CrNiMoCuNb1818",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "1.4828",
+        "Germany DIN": "X15CrNiSi2012",
+        "GB BS": "309S24",
+        "USA": "309",
+        "JAPAN": "SUH309"
+      },
+      {
+        "Material No.": "1.4845",
+        "Germany DIN": "X12CrNi2521",
+        "GB BS": "310S24",
+        "USA": "310S",
+        "JAPAN": "SUH310;SUS310S"
+      }
+    ],
+    "AUSTENITIC/FERRITIC STAINLESS STEEL (DUPLEX)": [
+      {
+        "Material No.": "1.4460",
+        "Germany DIN": "X8CrNiMo275",
+        "GB BS": "",
+        "USA": "S32900",
+        "JAPAN": "SUS329J1"
+      },
+      {
+        "Material No.": "1.4462",
+        "Germany DIN": "X2CrNiMoN2253",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "1.4821",
+        "Germany DIN": "X20CrNiSi254",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "1.4823",
+        "Germany DIN": "G-X40CrNiSi274",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      }
+    ],
+    "GRAY CAST IRON": [
+      {
+        "Material No.": "0.6010",
+        "Germany DIN": "GG10",
+        "GB BS": "",
+        "USA": "CLASS20",
+        "JAPAN": "FC100"
+      },
+      {
+        "Material No.": "0.6015",
+        "Germany DIN": "GG15",
+        "GB BS": "",
+        "USA": "CLASS25",
+        "JAPAN": "FC150"
+      },
+      {
+        "Material No.": "0.6020",
+        "Germany DIN": "GG20",
+        "GB BS": "",
+        "USA": "CLASS30",
+        "JAPAN": "FC200"
+      },
+      {
+        "Material No.": "0.6025",
+        "Germany DIN": "GG25",
+        "GB BS": "",
+        "USA": "CLASS35",
+        "JAPAN": "FC250"
+      },
+      {
+        "Material No.": "0.6030",
+        "Germany DIN": "GG30",
+        "GB BS": "",
+        "USA": "CLASS45",
+        "JAPAN": "FC300"
+      },
+      {
+        "Material No.": "0.6035",
+        "Germany DIN": "GG35",
+        "GB BS": "",
+        "USA": "CLASS50",
+        "JAPAN": "FC350"
+      },
+      {
+        "Material No.": "0.6040",
+        "Germany DIN": "GG40",
+        "GB BS": "",
+        "USA": "CLASS55",
+        "JAPAN": "FC400"
+      }
+    ],
+  "Material Grade Comparison": {
+    "GRAY CAST IRON WITH NODULAR GRAPHITE": [
+      {
+        "Material No.": "0.7033",
+        "Germany DIN": "GGG35.3",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": "FCD350"
+      },
+      {
+        "Material No.": "0.7040",
+        "Germany DIN": "GGG40",
+        "GB BS": "SNG420/12",
+        "USA": "60-40-18",
+        "JAPAN": "FCD400"
+      },
+      {
+        "Material No.": "0.7043",
+        "Germany DIN": "GGG40.3",
+        "GB BS": "SNG370/17",
+        "USA": "",
+        "JAPAN": "FCD400"
+      },
+      {
+        "Material No.": "0.7050",
+        "Germany DIN": "GGG50",
+        "GB BS": "SNG500/7",
+        "USA": "80-55-06",
+        "JAPAN": "FCD500"
+      },
+      {
+        "Material No.": "0.7060",
+        "Germany DIN": "GGG60",
+        "GB BS": "SNG600/3",
+        "USA": "",
+        "JAPAN": "FCD600"
+      },
+      {
+        "Material No.": "0.7070",
+        "Germany DIN": "GGG70",
+        "GB BS": "SNG700/2",
+        "USA": "100-70-03",
+        "JAPAN": "FCD700"
+      }
+    ],
+    "WHITE MALLEABLE CAST IRON": [
+      {
+        "Material No.": "0.8040",
+        "Germany DIN": "GTW-40",
+        "GB BS": "W410/4",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.8045",
+        "Germany DIN": "GTW-45",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.8055",
+        "Germany DIN": "GTW-55",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.8065",
+        "Germany DIN": "GTW-65",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.8135",
+        "Germany DIN": "GTS-35",
+        "GB BS": "B340/12",
+        "USA": "32510",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.8145",
+        "Germany DIN": "GTS-45",
+        "GB BS": "P440/7",
+        "USA": "40010",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.8035",
+        "Germany DIN": "GTW-35",
+        "GB BS": "W340/3",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.8155",
+        "Germany DIN": "GTS-55",
+        "GB BS": "P510/4",
+        "USA": "50005",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.8165",
+        "Germany DIN": "GTS-65",
+        "GB BS": "P570/3",
+        "USA": "70003",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.8170",
+        "Germany DIN": "GTS-70",
+        "GB BS": "P690/2",
+        "USA": "90001",
+        "JAPAN": ""
+      }
+    ],
+  "HARDENED MATERIALS": {
+    "WHITE CAST IRON": [
+      {
+        "Material No.": "0.9620",
+        "Germany DIN": "G-X260NiCr42",
+        "GB BS": "Grade 2A",
+        "USA": "Ni-Hard 2",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.9625",
+        "Germany DIN": "G-X330NiCr42",
+        "GB BS": "Grade 2B",
+        "USA": "Ni-Hard 1",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.9630",
+        "Germany DIN": "G-X300CrNiSi952",
+        "GB BS": "",
+        "USA": "Ni-Hard 4",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.9635",
+        "Germany DIN": "G-X300CrMo153",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      }
+    ],
+    "HARDENED CAST IRON": [
+      {
+        "Material No.": "0.9640",
+        "Germany DIN": "G-X300CrMoNi1521",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.9645",
+        "Germany DIN": "G-X260CrMoNi2021",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.9650",
+        "Germany DIN": "G-X260Cr27",
+        "GB BS": "Grade 3D",
+        "USA": "A532III A25%Cr",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.9655",
+        "Germany DIN": "G-X300CrMo271",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "0.9655",
+        "Germany DIN": "G-X300CrMo271",
+        "GB BS": "Grade 3E",
+        "USA": "A532III A25%Cr",
+        "JAPAN": ""
+      }
+    ],
+  "HIGH-TEMP ALLOYS": {
+    "SUPER-ALLOYS Fe-Based": [
+      {
+        "Material No.": "1.4558",
+        "Germany DIN": "X2NiCrAlTi3220",
+        "GB BS": "NA15",
+        "USA": "N08800",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "1.4562",
+        "Germany DIN": "X2NiCrMoCu32287",
+        "GB BS": "",
+        "USA": "N08031",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "1.4563",
+        "Germany DIN": "X2NiCrMoCuN31274",
+        "GB BS": "",
+        "USA": "N08028",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "1.4864",
+        "Germany DIN": "X12NiCrSi",
+        "GB BS": "",
+        "USA": "330",
+        "JAPAN": "SUH330"
+      },
+      {
+        "Material No.": "1.4864",
+        "Germany DIN": "X12NiCrSi3616",
+        "GB BS": "NA17",
+        "USA": "N08330",
+        "JAPAN": "SUH330"
+      },
+      {
+        "Material No.": "1.4958",
+        "Germany DIN": "X5NiCrAlTi3120",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "1.4977",
+        "Germany DIN": "X40CoCrNi2020",
+        "GB BS": "",
+        "USA": "",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "",
+        "Germany DIN": "",
+        "GB BS": "",
+        "USA": "S66286",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "",
+        "Germany DIN": "",
+        "GB BS": "",
+        "USA": "S41800",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "",
+        "Germany DIN": "",
+        "GB BS": "",
+        "USA": "R30556",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "",
+        "Germany DIN": "",
+        "GB BS": "N155",
+        "USA": "R30155",
+        "JAPAN": ""
+      }
+    ],
+    "SUPER-ALLOYS Co-Based": [
+      {
+        "Material No.": "",
+        "Germany DIN": "",
+        "GB BS": "",
+        "USA": "R30188",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "",
+        "Germany DIN": "",
+        "GB BS": "",
+        "USA": "R30605",
+        "JAPAN": ""
+      }
+    ],
+    "SUPER-ALLOYS Ni-Based": [
+      {
+        "Material No.": "2.4360",
+        "Germany DIN": "NiCu30Fe",
+        "GB BS": "NA13",
+        "USA": "Monel 400",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "2.4610",
+        "Germany DIN": "NiMo16Cr16Ti",
+        "GB BS": "",
+        "USA": "Hastelloy C-4",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "2.4630",
+        "Germany DIN": "NiCr20Ti",
+        "GB BS": "HR5, 203-4",
+        "USA": "Nimonic 75",
+        "JAPAN": "N06075"
+      },
+      {
+        "Material No.": "2.4642",
+        "Germany DIN": "NiCr29Fe",
+        "GB BS": "",
+        "USA": "Inconel 690",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "2.4810",
+        "Germany DIN": "G-NiMo30",
+        "GB BS": "",
+        "USA": "Hastelloy C",
+        "JAPAN": "N10276"
+      },
+      {
+        "Material No.": "2.4856",
+        "Germany DIN": "NiCr22Mo9Nb",
+        "GB BS": "NA21",
+        "USA": "Inconel 625",
+        "JAPAN": "N06625"
+      },
+      {
+        "Material No.": "2.4858",
+        "Germany DIN": "NiCr21Mo",
+        "GB BS": "NA16",
+        "USA": "Incoloy 825",
+        "JAPAN": "N08825"
+      },
+      {
+        "Material No.": "2.4375",
+        "Germany DIN": "NiCu30Al",
+        "GB BS": "NA18",
+        "USA": "Monel K-500",
+        "JAPAN": ""
+      },
+      {
+        "Material No.": "2.4668",
+        "Germany DIN": "NiCr19FeNbMo",
+        "GB BS": "",
+        "USA": "Inconel 718",
+        "JAPAN": "N07718"
+      },
+      {
+        "Material No.": "2.4669",
+        "Germany DIN": "NiCr15Fe7TiAl",
+        "GB BS": "",
+        "USA": "Inconel X-750",
+        "JAPAN": "N07750"
+      },
+      {
+        "Material No.": "2.4685",
+        "Germany DIN": "G-NiMo28",
+        "GB BS": "",
+        "USA": "Hastelloy B",
+        "JAPAN": "N10001"
+      },
+      {
+        "Material No.": "2.4694",
+        "Germany DIN": "NiCr16Fe7TiAl",
+        "GB BS": "",
+        "USA": "Inconel 751",
+        "JAPAN": "N00751"
+      }
+    ]
+  },
+  "TITANIUM AND TITANIUM ALLOYS": [
+    {
+      "Material No.": "3.7025",
+      "Germany DIN": "Ti1",
+      "GB BS": "2TA1",
+      "USA": "R50250",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "3.7035",
+      "Germany DIN": "TiCu2",
+      "GB BS": "2TA21-24",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "3.7195",
+      "Germany DIN": "TiAl8V2.5",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "3.7225",
+      "Germany DIN": "Ti3Al",
+      "GB BS": "TP1",
+      "USA": "R52250",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "3.7134",
+      "Germany DIN": "TiAl5Sn2",
+      "GB BS": "",
+      "USA": "",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "3.7145",
+      "Germany DIN": "TiAl6Sn2Zr4Mo2Si",
+      "GB BS": "",
+      "USA": "R54620",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "3.7165",
+      "Germany DIN": "TiAl6V4",
+      "GB BS": "TA10-13; TA28",
+      "USA": "R56400",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "3.7175",
+      "Germany DIN": "TiAl6V6Sn2",
+      "GB BS": "",
+      "USA": "R56620",
+      "JAPAN": ""
+    },
+    {
+      "Material No.": "3.7185",
+      "Germany DIN": "TiAl4Mo4Sn2",
+      "GB BS": "TA45-51; TA57",
+      "USA": "",
+      "JAPAN": ""
+    }
+  ]
+}
+  }
+}
+  }
+
+  
+

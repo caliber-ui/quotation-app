@@ -1,0 +1,225 @@
+{
+    "charul sankhe": {
+        "count": 2,
+        "saved_data": {
+            "header": {
+                "quotation_no": "REF : CE/11/00030/25-26",
+                "date": "DATE : 17/11/2025",
+                "client_name": "charul sankhe",
+                "client_address": "yuiop\n",
+                "attention": "M/s. Dembla Valves Ltd",
+                "enquiry_no": "",
+                "enquiry_date": "",
+                "contact_person": "",
+                "email": "",
+                "phone": ""
+            },
+            "intro": "We are thankful for your valued inquiry, sending you hereby our lowest offer for the following items desired by you and hope the same will meet your approval.",
+            "items_table": {
+                "headers": [
+                    "Sr No",
+                    "Item Code",
+                    "Description",
+                    "Dimension Standard",
+                    "Grade",
+                    "Finish",
+                    "Qty",
+                    "Rate"
+                ],
+                "rows": [
+                    [
+                        1,
+                        "1",
+                        "Nut, He x - 3/8-24 - 316 SS ASTM 194 8M 25 04.",
+                        "DIN 934",
+                        "316",
+                        "",
+                        "316",
+                        ""
+                    ],
+                    [
+                        2,
+                        "2",
+                        "Stud - - 1-1/2\" Long - 316 SS B8M CL1 180 04.",
+                        "N/A",
+                        "316",
+                        "",
+                        "316",
+                        ""
+                    ],
+                    [
+                        3,
+                        "2",
+                        "Stud - - 16-1/2\" Long 304 SS - No Restrictions - No Options - No Testing 005446651 6 04.",
+                        "N/A",
+                        "446",
+                        "",
+                        "316",
+                        ""
+                    ],
+                    [
+                        4,
+                        "4",
+                        "Bolt He x HD TFL - 3/4\" - 7\" Long - Alloy 825 - No Restrictions - No Options- NACE 2 04.",
+                        "N/A",
+                        "L3",
+                        "",
+                        "04",
+                        ""
+                    ],
+                    [
+                        5,
+                        "5",
+                        "Washer - 3/4-10 - Alloy 825 -- NACE 6 04.",
+                        "DIN 125A",
+                        "ALLOY 825",
+                        "",
+                        "825",
+                        ""
+                    ]
+                ]
+            },
+            "notes": {
+                "main_note": "NOTE : ABOVE PRICES ARE VALID FOR THE QTY MENTIONED IN THE QUOTATION ANY CHANGES IN THE SAME SHALL AFFECT THE ABOVE PRICES .",
+                "sub_notes": [
+                    "2) Kindly find highlighted changes in red colour if any before confirming the order.",
+                    "3) MTC Will be provided as per EN 10204 3.1"
+                ],
+                "partA": {
+                    "delivery": "EX- MUMBAI (TRANSPORTATION AT YOUR SIDE)",
+                    "period": "PERIOD: 4-5 WEEKS",
+                    "tax": "TAX : GST 18%",
+                    "pf": "P & F : 3%",
+                    "payment": "Immediate",
+                    "validity": "1 Day"
+                },
+                "partB": [
+                    "Bank Name : Kotak Mahindra bank.",
+                    "Add : Ground And Mezzanine Floor,",
+                    "Botawala Chamber,2, Mumbai- 01.",
+                    "Branch Code - 957",
+                    "IFSC Code No KKBK0000957",
+                    "Our A/c No 9223312803."
+                ],
+                "footer": [
+                    "IF ANY DOUBT PLEASE REVERT BACK TO US.",
+                    "AWAITING FOR YOUR EARLIEST POSITIVE RESPONSE FOR THE SAME.",
+                    "BEST REGARDS.,",
+                    "SALES TEAM"
+                ]
+            }
+        }
+    },
+    "Client Name NA": {
+        "count": 1,
+        "saved_data": {
+            "header": {
+                "quotation_no": "REF : CE/11/00031/25-26",
+                "date": "DATE : 17/11/2025",
+                "client_name": "Client Name NA",
+                "client_address": "Client Address NA",
+                "attention": "Kind Attn. : NA",
+                "enquiry_no": "",
+                "enquiry_date": "",
+                "contact_person": "",
+                "email": "",
+                "phone": ""
+            },
+            "intro": "We are thankful for your valued inquiry, sending you hereby our lowest offer for the following items desired by you and hope the same will meet your approval.",
+            "items_table": {
+                "headers": [
+                    "Sr No",
+                    "Item Code",
+                    "Description",
+                    "Dimension Standard",
+                    "Grade",
+                    "Finish",
+                    "Qty",
+                    "Rate"
+                ],
+                "rows": [
+                    [
+                        1,
+                        "1",
+                        "Nut, He x - 3/8-24 - 316 SS ASTM 194 8M 25 04.",
+                        "DIN 934",
+                        "316",
+                        "",
+                        "316",
+                        ""
+                    ],
+                    [
+                        2,
+                        "2",
+                        "Stud - - 1-1/2\" Long - 316 SS B8M CL1 180 04.",
+                        "N/A",
+                        "316",
+                        "",
+                        "316",
+                        ""
+                    ],
+                    [
+                        3,
+                        "2",
+                        "Stud - - 16-1/2\" Long 304 SS - No Restrictions - No Options - No Testing 005446651 6 04.",
+                        "N/A",
+                        "446",
+                        "",
+                        "316",
+                        ""
+                    ],
+                    [
+                        4,
+                        "4",
+                        "Bolt He x HD TFL - 3/4\" - 7\" Long - Alloy 825 - No Restrictions - No Options- NACE 2 04.",
+                        "N/A",
+                        "L3",
+                        "",
+                        "04",
+                        ""
+                    ],
+                    [
+                        5,
+                        "5",
+                        "Washer - 3/4-10 - Alloy 825 -- NACE 6 04.",
+                        "DIN 125A",
+                        "ALLOY 825",
+                        "",
+                        "825",
+                        ""
+                    ]
+                ]
+            },
+            "notes": {
+                "main_note": "NOTE : ABOVE PRICES ARE VALID FOR THE QTY MENTIONED IN THE QUOTATION ANY CHANGES IN THE SAME SHALL AFFECT THE ABOVE PRICES .",
+                "sub_notes": [
+                    "2) Kindly find highlighted changes in red colour if any before confirming the order.",
+                    "3) MTC Will be provided as per EN 10204 3.1"
+                ],
+                "partA": {
+                    "delivery": "EX- MUMBAI (TRANSPORTATION AT YOUR SIDE)",
+                    "period": "PERIOD: 4-5 WEEKS",
+                    "tax": "TAX : GST 18%",
+                    "pf": "P & F : 3%",
+                    "payment": "Immediate",
+                    "validity": "1 Day"
+                },
+                "partB": [
+                    "Bank Name : Kotak Mahindra bank.",
+                    "Add : Ground And Mezzanine Floor,",
+                    "Botawala Chamber,2, Mumbai- 01.",
+                    "Branch Code - 957",
+                    "IFSC Code No KKBK0000957",
+                    "Our A/c No 9223312803."
+                ],
+                "footer": [
+                    "IF ANY DOUBT PLEASE REVERT BACK TO US.",
+                    "AWAITING FOR YOUR EARLIEST POSITIVE RESPONSE FOR THE SAME.",
+                    "BEST REGARDS.,",
+                    "SALES TEAM"
+                ]
+            },
+            "red_notes": ""
+        }
+    }
+}

@@ -1,0 +1,3748 @@
+{
+  "Nuts": [{
+      "Nut Type": "Hex Nut ",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 934",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]},
+  {
+    "Nut Type": "Hex Nut ",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 4032",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]  },
+  {
+    "Nut Type": "Hex Nut ",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.2",
+    "Metrics": "ASME B18.2.4.1M",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]  },
+  {
+    "Nut Type": "Heavy Hex Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 6915",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Heavy Hex Nut",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 7414",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Heavy Hex Nut",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.2",
+    "Metrics": ["ASME B18.2.4.5m/6M", "ASME BB18.2.4.1M/2M"],
+   "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Square Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 557",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Square Nut",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.2",
+    "Metrics": "N/A",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Hex Jam Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 439",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Hex Jam Nut",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.2",
+    "Metrics": "ASME B18.2.4.5M",
+   "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]  },
+  {
+    "Nut Type": "Nylon-Insert Lock Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 985",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Nylon-Insert Lock Nut",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 10511",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Nylon-Insert Lock Nut",
+    "Standard": "ASME",
+    "Inches": "ASME B18.16.6",
+    "Metrics": "N/A",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]  },
+  {
+    "Nut Type": "Insert Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 985",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Insert Nut",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 10511",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Insert Nut",
+    "Standard": "ASME",
+    "Inches": "ASME B18.16.6",
+    "Metrics": "ASME B18.16.3M",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Wing Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 315",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Wing Nut",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 5448",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Wing Nut",
+    "Standard": "ASME",
+    "Inches": "ASME B18.17",
+    "Metrics": "ASME B18.17M",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Heavy Wing Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 315",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Heavy Wing Nut",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 5448",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Heavy Wing Nut",
+    "Standard": "ASME",
+    "Inches": "ASME B18.6.9",
+    "Metrics": "N/A",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Cap Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 1587",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Cap Nut",
+    "Standard": "IS",
+    "Inches": "N/A",
+    "Metrics": "IS 7790",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Cap Nut",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.2",
+    "Metrics": "N/A",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Flange Nut ",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 6923",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Flange Nut ",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 4161",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316),"] },
+  {
+    "Nut Type": "Flange Nut ",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.2",
+    "Metrics": "ASME B18.2.4.4M",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Serrated Flange Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 6923",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Serrated Flange Nut",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 4161",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Serrated Flange Nut",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.2",
+    "Metrics": "ASME B18.2.4.4M",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "T-Nut ",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 508",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "T-Nut ",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 299",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "T-Nut ",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "ASME B5.1M",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "T-Slot Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 508",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "T-Slot Nut",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 299",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "T-Slot Nut",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "ASME B5.1M",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]  },
+  {
+    "Nut Type": "Castle Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 935",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]  },
+  {
+    "Nut Type": "Castle Nut",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 7035",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]  },
+  {
+    "Nut Type": "Castle Nut",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.2",
+    "Metrics": "N/A",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Coupling Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 6334",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]  },
+  {
+    "Nut Type": "Coupling Nut",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 7412",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]  },
+  {
+    "Nut Type": "Coupling Nut",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.2",
+    "Metrics": "N/A",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Cage Nut",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 9170-1",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]  },
+  {
+    "Nut Type": "Cage Nut",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]  },
+  {
+    "Nut Type": "Square Weld Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 928",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]  },
+  {
+    "Nut Type": "Hex Weld Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 929",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]  }, 
+  {
+    "Nut Type": "Flange Weld Nut",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 977",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"] },
+  {
+    "Nut Type": "Flange Weld Nut",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 21670",
+    "Grades": ["grade 8","Class 8 (HT)","8M",7,"7M","Class 4 (MS)","Class 12(HT)","Class 10(HT)",12,12.9,"A2-70 (304)", "A4-70 (316)","2H","2HM","A4-80(316)"]},
+  {"Nut Finishes": [
+    "Plain",
+    "Black Oxide",
+    "Phosphate (Zinc or Manganese)",
+    "Passivated (for Stainless Steel)",
+    "Hot Dip Galvanized (HDG)",
+    "Mechanically Galvanized",
+    "Zinc Plated (Clear Chromate)",
+    "Zinc Plated (Blue Chromate)",
+    "Zinc Plated (Yellow Chromate)",
+    "Zinc Plated (Black Chromate)",
+    "Zinc-Nickel Plating (Zn-Ni)",
+    "Cadmium Plated",
+    "Nickel Plated",
+    "Chrome Plated",
+    "Zinc Flake Coatings (Generic)",
+    "Geomet",
+    "Dacromet",
+    "Fluoropolymer/PTFE Coatings (Generic)",
+    "Xylan",
+    "Teflon",
+    "Powder Coating"
+  ]
+}],
+  "Bolts": [
+  {
+    "Bolt Type": "Anchor Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 529",
+   "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Anchor Bolt",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Anchor Bolt",
+    "Standard": "ASME",
+    "Inches": "",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Blind Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 7337",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Blind Bolt",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "IS0 15977",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Blind Bolt",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "ASME B18.30.1M",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Mushroom Head Square Carriage Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 603",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Mushroom Head Square Carriage Bolt",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 8677",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Mushroom Head Square Carriage Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.5",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Flat Countersunk Square Carriage Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 605",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Half Coach  Carriage Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 607",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Elevator Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 15237",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Elevator Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.5",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Eye Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 444",
+   "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Eye Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.15",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Forged Eye Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 580",
+   "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Forged Eye Bolt",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 3266",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Forged Eye Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.15",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Flange Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 6921",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Flange Bolt",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 4162",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Flange Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.1",
+    "Metrics": "ASME B18.2.3.4M",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Hex Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": ["DIN 931", "DIN 933"],
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Hex Bolt",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 4017" ,
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Hex Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.1",
+    "Metrics": ["ASME B18.2.3.1M", "ASME B18.2.3.5M/6M"],
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Heavy Hex Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 6914",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Heavy Hex Bolt",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 7412" ,
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Heavy Hex Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.1",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": " Half Thread Hex Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 931",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Half Thread Hex Bolt",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 4014" ,
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Hex Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.1",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type":"Hanger Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 88149",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Hanger Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.1 ",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "J-Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 6914",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "J-Bolt",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 7412",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "J-Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.1",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Lag Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 571",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Lag Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.1,ASME B18.6.1",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Plow Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 11014",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1","B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Plow Bolt",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+   "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Plow Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.9",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Rock Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 21521",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Rock Bolt",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "ASTM F432",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Shoulder Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 7979",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Shoulder Bolt",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 7979",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Shoulder Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.3",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Socket Head Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 912",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Socket Head Bolt",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 4762",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Socket Head Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.3",
+    "Metrics": "ASME B18.3.1M",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Square Head Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 478, DIN 479",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "Square Head Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.1",
+    "Metrics": "N/A",
+   "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "T-Head Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 186, DIN 261",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "T-Head Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.1",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "U-Bolt",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 3570",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+  {
+    "Bolt Type": "U-Bolt",
+    "Standard": "ASME",
+    "Inches": "ASME B18.31.5",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)","25CrMo4"]
+  },
+{
+  "Bolt Finishes": [
+    "Plain (Self-Colour/Oiled)",
+    "Black Oxide",
+    "Phosphate (Zinc or Manganese)",
+    "Passivated (for Stainless Steel)",
+    "Hot Dip Galvanized (HDG)",
+    "Mechanically Galvanized",
+    "Zinc Plated (Clear Chromate)",
+    "Zinc Plated (Blue Chromate)",
+    "Zinc Plated (Yellow Chromate)",
+    "Zinc Plated (Black Chromate)",
+    "Zinc-Nickel Plating (Zn-Ni)",
+    "Cadmium Plated",
+    "Nickel Plated",
+    "Chrome Plated",
+    "Zinc Flake Coatings",
+    "Geomet",
+    "Dacromet",
+    "Fluoropolymer/PTFE Coatings",
+    "Xylan",
+    "Teflon",
+    "Powder Coating"
+
+  ]
+}],
+ "Studs": [
+  {
+    "Stud Type": "Fully Threaded Stud",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 976-1",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+  },
+  {
+    "Stud Type": "Fully Threaded Stud",
+    "Standard": "ASME",
+    "Inches": "ASME B18.31.2",
+    "Metrics": "ASME B18.31.1M",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+  },
+  {
+    "Stud Type": "Double Ended Stud",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 938, DIN 939",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+  },
+  {
+    "Stud Type": "Double Ended Stud",
+    "Standard": "ASME",
+    "Inches": "ASME B18.31.2",
+    "Metrics": "ASME B18.31.1M",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+  },
+  {
+    "Stud Type": "Reduced-Shank Stud",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 2510",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+  },
+  {
+    "Stud Type": "Reduced-Shank Stud",
+    "Standard": "ASME",
+    "Inches": "ASME B18.31.2",
+    "Metrics": "ASME B18.31.1M",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+  },
+  {
+    "Stud Type": "Welding Stud",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 525",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+  },
+  {
+    "Stud Type": "Welding Stud",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 13918",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+  },
+  {
+    "Stud Type": "Welding Stud",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.1 ",
+    "Metrics": "N/A",
+   "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+  },
+  {
+    "Stud Type": "Undercut Stud",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 2510",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+  },
+  {
+    "Stud Type": "Undercut Stud",
+    "Standard": "ASME",
+    "Inches": "ASME B1.1",
+    "Metrics": "N/A",
+    "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+  },
+{
+  "Stud Finishes": [
+    "Plain (Self-Colour/Oiled)",
+    "Black Oxide",
+    "Phosphate ( Zinc or Manganese)",
+    "Passivated (for Stainless Steel)",
+    "Hot Dip Galvanized (HDG)",
+    "Mechanically Galvanized",
+    "Zinc Plated (Clear Chromate)",
+    "Zinc Plated (Blue Chromate)",
+    "Zinc Plated (Yellow Chromate)",
+    "Zinc Plated (Black Chromate)",
+    "Zinc-Nickel Plating (Zn-Ni)",
+    "Cadmium Plated",
+    "Nickel Plated",
+    "Chrome Plated",
+    "Zinc Flake Coatings ",
+    "Geomet",
+    "Dacromet",
+    "Fluoropolymer/PTFE Coatings ",
+    "Xylan",
+    "Teflon",
+    "Powder Coating",
+    "ZN AL Coating"
+  ]
+}],
+  "Washers": [
+  {
+    "Washer Type": "Flat Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 125A,DIN 125B,DIN 9021",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Flat Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 7089, ISO 7090, ISO 7093, ISO 7094",
+     "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Flat Washer",
+    "Standard": "ASME",
+    "Inches": "ASME B18.21.1",
+    "Metrics": "ASME B18.22M",
+     "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Heavy Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 9021",
+     "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Heavy Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 7093 ",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Heavy Washer",
+    "Standard": "ASME",
+    "Inches": "ASME B18.21.1",
+    "Metrics": "N/A",
+     "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Countersunk Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 7984",
+     "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Countersunk Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+     "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Countersunk Washer",
+    "Standard": "ASME",
+    "Inches": "ASME B18.21.1",
+    "Metrics": "N/A",
+     "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"Shoulder Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+     "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"Shoulder Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+     "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"Shoulder Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+     "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"C-Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 6371",
+     "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"C-Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+     "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"C-Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+     "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"Belleville Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 2093",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"Belleville Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "ISO 19690-1",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"Belleville Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"Dome Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 6796",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"Dome Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"Dome Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"Crescent Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 137",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"Crescent Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"Crescent Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Finger Spring Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Finger Spring Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Finger Spring Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Split Lock Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 127A,DIN 127B",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Split Lock Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Split Lock Washer",
+    "Standard": "ASME",
+    "Inches": "ASME B18.21.1",
+    "Metrics": "ASME B18.22M",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Internal Tooth Lock Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 6797 J",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Internal Tooth Lock Washer",
+    "Standard": "ASME",
+    "Inches": "ASME B18.21.1",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "External Tooth Lock Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 6797 A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "External Tooth Lock Washer",
+    "Standard": "ASME",
+    "Inches": "ASME B18.21.1",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Torque Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Torque Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Torque Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Internal Keyed Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 462",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Internal Keyed Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Internal Keyed Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "External Keyed Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 432",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "External Keyed Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "External Keyed Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Bonded Seal Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Bonded Seal Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type":"Bonded Seal Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+
+  {
+    "Washer Type": "Self-Aligning Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Self-Aligning Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Self-Aligning Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Thrust Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Thrust Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Thrust Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Top-Hat Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Top-Hat Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Top-Hat Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Square Tapper Washer with U Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 434, DIN 6918",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Square Tapper Washer with U Washer",
+    "Standard": "IS",
+    "Inches": "N/A",
+    "Metrics": "IS 5372",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Square Tapper Washer with U Washer",
+    "Standard": "ASME",
+    "Inches": "ASME B18.2.6",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Single Tab Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 93",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Single Tab Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Single Tab Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410","Titanium"]
+  },
+  {
+    "Washer Type": "Double Tab Washer",
+    "Standard": "DIN",
+    "Inches": "N/A",
+    "Metrics": "DIN 463",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Double Tab Washer",
+    "Standard": "ISO",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+  {
+    "Washer Type": "Double Tab Washer",
+    "Standard": "ASME",
+    "Inches": "N/A",
+    "Metrics": "N/A",
+    "Grades": ["SS304","SS316","MILD STEEL(MS)","CARBON STEEL(CS)","C22","C276","ALLOY 825","ALLOY 20","DUPLEX(S32760)","DUPLEX(S32750)","904L","SS304L","SS316L","SS202","SS410"]
+  },
+{
+  "Washers Finishes": [
+    "Plain (Self-Colour)",
+    "Black Oxide",
+    "Phosphate (Zinc or Manganese)",
+    "Passivated (for Stainless Steel)",
+    "Hot Dip Galvanized (HDG)",
+    "Mechanically Galvanized",
+    "Zinc Plated (Clear Chromate)",
+    "Zinc Plated (Blue Chromate)",
+    "Zinc Plated (Yellow Chromate)",
+    "Zinc Plated (Black Chromate)",
+    "Zinc-Nickel Plating (Zn-Ni)",
+    "Cadmium Plated",
+    "Nickel Plated",
+    "Chrome Plated",
+    "Copper Plated",
+    "Anodizing (for Aluminum)",
+    "Zinc Flake Coatings ",
+    "Geomet",
+    "Dacromet",
+    "Fluoropolymer/PTFE Coatings",
+    "Xylan",
+    "Teflon",
+    "Powder Coating",
+    "Paint"
+  ]
+}],
+  "Screw": [
+    {
+      "Screw Type": "Allen Cap Screw",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 912",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Allen Cap Screw",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 4762",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Allen Cap Screw",
+      "Standard": "ASME",
+      "Inches": "ASME B18.3",
+      "Metrics": "ASME B18.3.1M",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Countersunk Screw ",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 7991",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Countersunk Screw ",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 10642",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Countersunk Screw ",
+      "Standard": "ASME",
+      "Inches": "ASME B18.3",
+      "Metrics": "N/A",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Set Screw with Flat point ",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 913",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Set Screw with Flat point",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 4026",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+     {
+      "Screw Type": "Hex Socket Set Screw with Flat point",
+      "Standard": "ASME",
+      "Inches": "ASME B18.3",
+      "Metrics": "N/A",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Set Screw with Cone Point ",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 914",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Set Screw with Cone Point ",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 4027",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Set Screw with Cone Point ",
+      "Standard": "ASME",
+      "Inches": "ASME B18.3",
+      "Metrics": "N/A",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Set Screw with Dog point ",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 915",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Set Screw with Dog point ",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 4028",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Set Screw with Dog point",
+      "Standard": "ASME",
+      "Inches": "ASME B18.3",
+      "Metrics": "N/A",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Set Screw with Cup Point",  
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 916",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Set Screw with Cup Point ",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 4029",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Set Screw with Cup Point",
+      "Standard": "ASME",
+      "Inches": "ASME B18.3",
+      "Metrics": "N/A",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hexagon Head Cap Screw (Fully Threaded)",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 933",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hexagon Head Cap Screw (Fully Threaded)",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 4017",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hexagon Head Cap Screw (Fully Threaded)",
+      "Standard": "ASME",
+      "Inches": "ASME B18.2.1",
+      "Metrics": "N/A",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hexagon Head Cap Screw (Partially Threaded)",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": " DIN 931",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hexagon Head Cap Screw (Partially Threaded)",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 4014 ",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hexagon Head Cap Screw (Partially Threaded)",
+      "Standard": "ASME",
+      "Inches": "ASME B18.2.1",
+      "Metrics": "N/A",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Heavy Hex Cap Screw",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 6914",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Heavy Hex Cap Screw",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 7412 ",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    { 
+      "Screw Type": "Heavy Hex Cap Screw",
+      "Standard": "ASME",
+      "Inches": "ASME B18.2.1",
+      "Metrics": "N/A",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Slotted Pan Head Screw",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 85",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Slotted Pan Head Screw",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 1583",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Slotted Pan Head Screw",
+      "Standard": "ASME",
+      "Inches": "ASME B18.6.3",
+      "Metrics": "N/A",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hexagonal Socket Button Head Screw",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 7380",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hexagonal Socket Button Head Screw",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 7380",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hexagonal Socket Button Head Screw",
+      "Standard": "ASME",
+      "Inches": "ASME B18.3",
+      "Metrics": "N/A",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Cheese Head Screw",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 84",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Cheese Head Screw",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 1207",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Cheese Head Screw",
+      "Standard": "ASME",
+      "Inches": "ASME B18.6.3",
+      "Metrics": "N/A",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Head Shoulder Screw",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 7379",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Head Shoulder Screw",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 7379",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Hex Socket Head Shoulder Screw",
+      "Standard": "ASME",
+      "Inches": "ASME B18.3",
+      "Metrics": "N/A",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Pan Philips Screw",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 7379",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Pan Philips Screw",
+      "Standard": "ISO",
+      "Inches": "N/A",
+      "Metrics": "ISO 7379",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Pan Philips Screw",
+      "Standard": "ASME",
+      "Inches": "ASME B18.3",
+      "Metrics": "N/A",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Pan Philips Machine Screw",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 7985",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+      "Screw Type": "Pan Philips CSK Screw",
+      "Standard": "DIN",
+      "Inches": "N/A",
+      "Metrics": "DIN 965",
+      "Grades": ["B7","B7M","B16","B8 CLASS 1", "B8 CLASS 2","B8M CLASS 1","B8M CLASS 2","B8MLCUeuM CLASS 1A(SMO 254)","L7","L7M","SS316L","SS304L","A2-70","A4-70","A4-80","CLASS 4.6","CLASS 5.6" ,"CLASS 8.8" , "CLASS 10.9","CLASS 12.9","ALLOY 20(N08020)","ALLOY 825(N0825)","ALLOY 625(N06625)","ALLOY 718(N07718)","ALLOY 925(N09925)","ALLOY C22(N06022)","ALLOY C276(N010276)","S32750(F3)","S32760(F55)","S32250(F60)","S31803(F51)","904L","904L(F904L)","SS410","MONEL 400(N04400)"]
+    },
+    {
+  "Screws Finishes": [
+    "Plain (Self-Colour)",
+    "Black Oxide",
+    "Phosphate (Zinc or Manganese)",
+    "Passivated (for Stainless Steel)",
+    "Hot Dip Galvanized (HDG)",
+    "Mechanically Galvanized",
+    "Zinc Plated (Clear Chromate)",
+    "Zinc Plated (Blue Chromate)",
+    "Zinc Plated (Yellow Chromate)",
+    "Zinc Plated (Black Chromate)",
+    "Zinc-Nickel Plating (Zn-Ni)",
+    "Cadmium Plated",
+    "Nickel Plated",
+    "Chrome Plated",
+    "Copper Plated",
+    "Anodizing (for Aluminum)",
+    "Zinc Flake Coatings ",
+    "Geomet",
+    "Dacromet",
+    "Fluoropolymer/PTFE Coatings",
+    "Xylan",
+    "Teflon",
+    "Powder Coating",
+    "Paint"
+  ]
+}]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
