@@ -4,3 +4,4 @@ pdfplumber
 reportlab
 python-docx
 rapidfuzz
+openpyxl
