@@ -1,0 +1,6 @@
+streamlit
+pandas
+pdfplumber
+reportlab
+python-docx
+rapidfuzz
